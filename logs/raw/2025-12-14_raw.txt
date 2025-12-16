@@ -1,0 +1,40 @@
+[19:32:39-19:37:28] <msedge.exe> [活跃度:高] [URL: localhost:8502] AI 时间追踪仪表盘 和另外 14 个页面 - 个人 - Microsoft​ Edge
+[19:37:28-19:51:54] <desktopmgr64.exe> [活跃度:低]  桌面整理
+[19:51:54-02:55:15] <explorer.exe> [活跃度:中]  Program Manager
+[02:55:15-12:57:20] <desktopmgr64.exe> [活跃度:中]  桌面整理
+[12:57:20-13:03:08] <msedge.exe> [活跃度:中] [URL: https://www.autodl.com/console/instance/list?tag_id=&_random_=1765558807151] AutoDL算力云 | 弹性、好用、省钱，GPU算力零售价格新标杆 和另外 14 个页面 - 个人 - Microsoft​ Edge
+[13:03:08-13:05:23] <desktopmgr64.exe> [活跃度:中]  桌面整理
+[13:05:23-13:09:44] <chrome.exe> [活跃度:高] [URL: chatgpt.com/c/693c48dc-8fc0-8329-9919-10cd8a2a3323] POMO CVRP GitHub实例 - Google Chrome
+[13:09:44-13:10:58] <chrome.exe> [活跃度:高] [URL: github.com/mit-wu-lab/learning-to-delegate?utm_source=chatgpt.com] GitHub - mit-wu-lab/learning-to-delegate：[NeurIPS 2021 亮点] 大规模车辆路径规划的委托学习 - Google Chrome
+[13:10:58-13:12:08] <notepad.exe> [活跃度:高]  *基于人工智能技术的CVRP问题求解模型的框架设计与评估 - Notepad
+[13:12:08-13:22:18] <obsidian.exe> [活跃度:高]  创建账号或登录 - Gemini Business - Ob仓库 - Obsidian v1.10.6
+[13:22:18-13:23:06] <chrome.exe> [活跃度:中] [URL: chatgpt.com/c/693c48dc-8fc0-8329-9919-10cd8a2a3323] POMO CVRP GitHub实例 - Google Chrome
+[13:23:06-13:23:54] <pycharm64.exe> [活跃度:中]  NeuroLKH
+[13:23:54-13:24:43] <cursor.exe> [活跃度:中]  Cursor Settings - NeuroLKH - Cursor [管理员]
+[13:24:43-13:28:29] <msedge.exe> [活跃度:中] [URL: https://cursor.com/cn/loginDeepControl?challenge=z1z4BGKFbcAIEK_cFVmiFtd2Ups8Vd2wC4ekQpYgwLA&uuid=c3ed74f4-8316-47ae-a588-7f710b736e4c&mode=login] 新建标签页 和另外 16 个页面 - 个人 - Microsoft​ Edge
+[13:28:29-13:34:58] <msedge.exe> [活跃度:高] [URL: https://cursor-docs.apifox.cn/套餐与用量-6358324m0] 套餐与用量 - Cursor 官方文档中文版 和另外 19 个页面 - 个人 - Microsoft​ Edge
+[13:34:58-13:36:32] <notepad.exe> [活跃度:高]  *基于人工智能技术的CVRP问题求解模型的框架设计与评估 - Notepad
+[13:36:32-13:39:48] <cursor.exe> [活跃度:高]  NeuroLKH - Cursor [管理员]
+[13:39:48-13:41:12] <msedge.exe> [活跃度:高] [URL: https://fcn0uln516co.feishu.cn/wiki/MQDowotCeiSLCOkr326cT5MXnwf] 新建标签页 和另外 18 个页面 - 个人 - Microsoft​ Edge
+[13:41:12-13:44:19] <cursor.exe> [活跃度:高]  NeuroLKH - Cursor [管理员]
+[13:44:19-13:45:07] <msedge.exe> [活跃度:中] [URL: https://github.com/yeongpin/cursor-free-vip/releases/tag/v1.11.03] Release v1.11.03 · yeongpin/cursor-free-vip 和另外 19 个页面 - 个人 - Microsoft​ Edge
+[13:45:07-13:45:56] <cursorsetup-x64-2.2.20.tmp> [活跃度:中]  安装 - Cursor
+[13:45:56-13:47:12] <windowsterminal.exe> [活跃度:中]  F:\浏览器下载\CursorFreeVIP_1.11.03_windows.exe
+[13:47:12-13:52:11] <cursor.exe> [活跃度:高]  NeuroLKH - Cursor [管理员]
+[13:52:11-13:54:57] <obsidian.exe> [活跃度:中]  创建账号或登录 - Gemini Business - Ob仓库 - Obsidian v1.10.6
+[13:54:57-13:56:07] <msedge.exe> [活跃度:中] [URL: webhotel4.ruc.dk/~keld/research/LKH-3/] LKH-3（凯尔德·赫尔斯高恩） --- LKH-3 (Keld Helsgaun) 和另外 23 个页面 - 个人 - Microsoft​ Edge
+[13:56:07-13:56:57] <explorer.exe> [活跃度:中]  Program Manager
+[13:56:57-13:57:47] <lx-music-desktop.exe> [活跃度:中]  青い砂時計 - 冈崎律子
+[13:57:47-14:04:20] <obsidian.exe> [活跃度:高]  创建账号或登录 - Gemini Business - Ob仓库 - Obsidian v1.10.6
+[14:04:20-14:10:50] <chrome.exe> [活跃度:高] [URL: github.com/mit-wu-lab/learning-to-delegate#] GitHub - mit-wu-lab/learning-to-delegate：[NeurIPS 2021 亮点] 大规模车辆路径规划的委托学习 - Google Chrome
+[14:10:50-14:13:28] <obsidian.exe> [活跃度:高]  CVRP求解器重构 - Gemini Enterprise - Ob仓库 - Obsidian v1.10.6
+[14:13:28-14:14:21] <explorer.exe> [活跃度:高]  F:\桌面资料\代办\人工智能作业\大作业\NeuroLKH 和 1 个其他选项卡 - 文件资源管理器
+[14:14:21-14:15:05] <obsidian.exe> [活跃度:中]  Gemini Enterprise - Ob仓库 - Obsidian v1.10.6
+[14:15:05-14:16:38] <cursor.exe> [活跃度:高]  Cursor Settings - NeuroLKH - Cursor [管理员]
+[14:16:38-14:17:41] <pycharm64.exe> [活跃度:中]  run_hgs.py – supervised.py
+[14:17:41-14:20:41] <obsidian.exe> [活跃度:中]  Gemini Enterprise - Ob仓库 - Obsidian v1.10.6
+[14:20:41-14:21:28] <pycharm64.exe> [活跃度:中]  run_hgs.py – supervised.py
+[14:21:28-14:25:11] <obsidian.exe> [活跃度:高]  Gemini Enterprise - Ob仓库 - Obsidian v1.10.6
+[14:25:11-14:27:06] <pycharm64.exe> [活跃度:高]  run_hgs.py – supervised.py
+[14:27:06-14:28:19] <obsidian.exe> [活跃度:中]  Gemini Enterprise - Ob仓库 - Obsidian v1.10.6
+[14:28:19-14:42:34] <cursor.exe> [活跃度:高]  test_setup.py - NeuroLKH - Cursor [管理员]

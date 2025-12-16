@@ -1,0 +1,19 @@
+# --- GUI & Web Interface ---
+streamlit               # WebUI framework
+ plotly                # (Optional) If you use charts in your dashboard
+pandas                # (Optional) If you process dataframes for the dashboard
+
+# --- System Monitoring & Automation ---
+psutil                  # For getting process names (PID to Name)
+pywin32                 # For Windows API (win32gui, win32process to get active window)
+uiautomation            # For accessibility API (getting Browser URLs)
+pynput                  # For monitoring mouse/keyboard activity
+pystray               # (Optional) If you have a system tray icon
+Pillow                # (Optional) Image processing, often required by pystray
+
+# --- AI & API ---
+openai                  # For calling OpenAI-compatible APIs (ChatGPT, ModelScope, etc.)
+httpx                 # (Usually installed with openai, but good to have explicit)
+
+# --- Utilities ---
+watchdog              # (Optional) If you implement auto-reload for config files

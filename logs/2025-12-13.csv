@@ -1,0 +1,35 @@
+﻿开始时间,结束时间,任务分类,任务详情
+00:05:03,00:05:58,系统,在文件资源管理器中浏览与人工智能作业相关的文件
+00:05:58,00:06:43,开发,在Windows Terminal中运行PK_Solver.py脚本
+00:06:43,00:10:34,开发,在Cursor中编辑convert_checkpoint.py脚本
+00:10:34,00:11:09,开发,在Windows Terminal中以管理员身份查看PK_Solver Logs
+00:11:09,00:12:03,系统,文件资源管理器操作 (浏览与人工智能作业相关的文件)
+00:12:03,00:13:13,开发,编写代码 (使用Cursor编辑器处理convert_checkpoint.py文件)
+00:13:13,00:21:12,开发,终端操作 (在管理员权限下查看PK_Solver日志)
+00:21:12,00:24:08,开发,查阅技术文档 (访问本地运行的技术文档或工具页面)
+00:24:08,00:26:30,开发,编写代码 (使用Cursor编辑器处理PK_Solver.py文件)
+00:26:30,00:27:44,开发,使用JupyterLab编写代码和查阅技术文档
+00:27:44,00:29:30,开发,通过终端连接远程服务器进行操作
+00:29:30,00:32:25,开发,在Cursor中编写PK_Solver.py代码
+00:32:25,00:34:54,开发,继续使用JupyterLab编写代码和查阅技术文档
+00:34:54,00:36:49,开发,通过终端连接远程服务器进行操作
+00:36:49,00:38:12,开发,编写代码 (PK_Solver.py - CVRP - Cursor [Administrator])
+00:38:12,00:39:51,开发,终端操作 (管理员: C:\WINDOWS\system32\cmd.exe - ssh  -p 41213 root@connect.westd.seetacloud.com)
+00:39:51,00:41:06,开发,编写代码 (PK_Solver.py - CVRP - Cursor [Administrator])
+00:41:06,00:45:12,开发,终端操作 (管理员: C:\WINDOWS\system32\cmd.exe - ssh  -p 41213 root@connect.westd.seetacloud.com)
+00:45:12,00:47:21,开发,查阅技术文档 (https://a837751-bee5-960b473b.westd.seetacloud.com:8443/jupyter/lab/tree/autodl-tmp/myproject)
+00:47:21,00:49:21,开发,使用 Windows Terminal 进行终端操作，运行 Python 脚本 PK_Solver.py
+00:49:21,00:50:31,开发,使用 Cursor 编辑器编写或调试 PK_Solver.py 脚本
+00:50:31,00:51:08,开发,使用 Windows Terminal 进行终端操作，运行 Python 脚本 PK_Solver.py
+00:51:08,00:51:52,系统,使用文件资源管理器浏览与人工智能作业相关的文件夹
+00:51:52,00:53:24,开发,使用 Windows Terminal 进行终端操作，运行管理员权限下的 PK_Solver 脚本
+00:53:24,00:55:10,开发,访问本地开发环境 (localhost:8505) - Microsoft Edge
+00:55:10,00:56:58,AI,查阅GitHub实例 - 使用ChatGPT - Google Chrome
+00:56:58,01:00:29,开发,终端操作 - 管理员权限 - Windows Terminal
+01:00:29,01:02:37,AI,查阅GitHub实例 - 使用ChatGPT - Google Chrome
+01:02:37,18:58:40,系统,桌面整理 - 活跃度低 - Desktop Manager
+18:58:40,19:15:32,AI,使用Gemini Pro Player (Global Hotkeys)进行AI交互。
+19:15:32,19:19:08,娱乐,观看B站视频《东北街头大炖菜 5元一大盒还送主食和小菜》。
+19:19:08,19:21:54,娱乐,观看B站视频《史上最便宜盒饭 1元一道菜 太逆天了》。
+19:21:54,19:25:30,娱乐,观看B站视频《5元3个菜！东北街头究极逆天盒饭！这物价无敌了》。
+19:25:30,19:32:39,娱乐,观看B站视频《不看后悔！史上最逆天东北菜量！颠覆你的认知！》。

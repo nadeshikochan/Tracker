@@ -1,0 +1,256 @@
+﻿开始时间,结束时间,任务分类,任务详情
+23:53:40,23:55:49,开发,使用Microsoft Edge浏览器访问本地运行的CVRP POMO Solver页面，可能在调试或查看结果。
+23:55:49,23:56:20,系统,在文件资源管理器中浏览与人工智能作业相关的文件夹，特别是CVRP相关的内容。
+23:56:20,23:59:43,开发,在Cursor编辑器中编写或调试PK_Solver.py文件，处理CVRP问题。
+23:59:43,00:00:17,开发,再次使用Microsoft Edge浏览器访问本地运行的CVRP POMO Solver页面，活跃度较低，可能在查看结果或等待。
+00:00:17,00:01:59,开发,继续在Cursor编辑器中编写或调试PK_Solver.py文件，处理CVRP问题。
+00:01:59,00:05:09,AI,使用ChatGPT获取代码优化建议
+00:05:09,00:05:59,开发,在Cursor中运行run_app.py脚本
+00:05:59,00:06:34,开发,在Microsoft Edge中查看CVRP POMO Solver相关页面
+00:06:34,00:10:18,开发,在Cursor中编辑PK_Solver.py脚本
+00:10:18,00:12:44,开发,在Windows Terminal中查看PK_Solver日志
+00:12:44,00:14:40,开发,CVRP POMO Solver 和另外 11 个页面 - 个人 - Microsoft Edge (查阅技术文档)
+00:14:40,00:16:31,AI,AI 时间追踪仪表盘 和另外 9 个页面 - 个人 - Microsoft Edge (使用 AI 工具)
+00:16:31,00:17:13,系统,F:\桌面资料\代办\人工智能作业\大作业\CVRP 和 1 个其他选项卡 - 文件资源管理器 (文件资源管理器操作)
+00:17:13,00:19:13,AI,代码优化建议 - Google Chrome (使用 ChatGPT 进行代码优化)
+00:19:13,00:22:05,开发,*基于人工智能技术的CVRP问题求解模型的框架设计与评估 - Notepad (编写或查阅技术文档)
+00:22:05,00:23:10,知识库,使用 Obsidian 整理知识 (CODE_GUIDE - Ob仓库 - Obsidian v1.10.6)
+00:23:10,00:24:35,开发,编写代码 (train.py - CVRP - Cursor [Administrator])
+00:24:35,00:26:55,学习,阅读文档 (基于人工智能技术的CVRP问题求解模型的框架设计与评估 - Notepad)
+00:26:55,00:28:50,AI,与ChatGPT交流 (代码优化建议 - Google Chrome)
+00:28:50,00:34:47,学习,继续阅读文档 (基于人工智能技术的CVRP问题求解模型的框架设计与评估 - Notepad)
+00:34:47,00:35:58,娱乐,听音乐 - 風を食む - ヨルシカ
+00:35:58,00:42:51,开发,编写代码 - train.py - CVRP - Cursor [Administrator]
+00:42:51,00:43:37,娱乐,听音乐 - エイミー - ヨルシカ
+00:43:37,00:45:07,开发,编写代码 - train.py - CVRP - Cursor [Administrator]
+00:45:07,00:47:17,娱乐,听音乐 - へび - ヨルシカ
+00:47:17,00:48:15,开发,编写代码 (train.py - CVRP - Cursor)
+00:48:15,01:02:11,娱乐,听音乐 (逃亡 - ヨルシカ)
+01:02:11,01:09:01,开发,使用本地Streamlit应用 (Streamlit 和另外 10 个页面 - 个人 - Microsoft Edge)
+01:09:01,01:09:48,开发,编写代码 (PK_Solver.py - CVRP - Cursor)
+01:09:48,01:16:11,系统,使用任务管理器
+01:16:11,01:54:04,开发,使用Edge浏览器访问localhost:8501查看CVRP POMO Solver相关页面，同时打开其他10个页面。
+01:54:04,01:54:58,开发,在PyCharm中打开并查看CVRP – PK_Solver.py文件。
+01:54:58,01:56:37,开发,在Cursor中编辑PK_Solver.py文件，处理CVRP问题。
+01:56:37,01:57:39,知识库,在Obsidian中查看Gemini Enterprise相关的知识库内容。
+01:57:39,02:01:24,开发,继续在Cursor中编辑PK_Solver.py文件，处理CVRP问题。
+02:01:24,02:03:07,AI,使用ChatGPT讨论CVRP解法与优化策略
+02:03:07,02:03:40,AI,使用ChatGPT获取代码优化建议
+02:03:40,02:05:03,AI,使用ChatGPT继续讨论CVRP解法与优化策略
+02:05:03,02:09:09,AI,使用ChatGPT深入讨论代码优化建议
+02:09:09,02:12:08,开发,编写和调试PK_Solver.py - CVRP问题求解器
+02:12:08,02:14:04,开发,CVRP POMO Solver 和另外 10 个页面 - 个人 - Microsoft Edge (查阅技术文档)
+02:14:04,02:15:28,开发,local_search.py - CVRP - Cursor [Administrator] (编写代码)
+02:15:28,02:17:38,系统,F:\桌面资料\代办\人工智能作业\大作业\CVRP 和 1 个其他选项卡 - 文件资源管理器 (文件资源管理器操作)
+02:17:38,02:23:08,AI,CVRP解法与优化策略 - Google Chrome (使用ChatGPT)
+02:23:08,02:25:24,开发,PK_Solver.py - CVRP - Cursor [Administrator] (编写代码)
+02:25:24,02:26:52,开发,使用管理员权限在终端操作 PK_Solver Logs
+02:26:52,02:27:27,开发,在本地运行 CVRP POMO Solver 页面，查看和调试代码
+02:27:27,02:31:57,开发,在 PyCharm 中编写和调试 CVRP 相关的代码
+02:31:57,02:32:55,系统,浏览文件资源管理器中的 CVRP 相关文件
+02:32:55,02:33:58,开发,继续在本地运行 CVRP POMO Solver 页面，查看和调试代码
+02:33:58,02:36:11,开发,编写代码：train.py - CVRP - Cursor [Administrator]
+02:36:11,02:39:31,AI,使用ChatGPT讨论CVRP解法与优化策略
+02:39:31,02:45:45,开发,编写代码：PK_Solver.py - CVRP - Cursor [Administrator]
+02:45:45,02:49:02,AI,使用Cursor平台进行AI相关操作
+02:49:02,02:50:45,开发,编写代码：PK_Solver.py - CVRP - Cursor [Administrator]
+02:50:45,02:55:48,AI,使用ChatGPT获取代码优化建议
+02:55:48,03:02:04,开发,在Cursor中编写或调试CVRP相关代码
+03:02:04,03:04:52,开发,在Windows Terminal中运行Python脚本PK_Solver.py
+03:04:52,03:06:31,开发,在Cursor中查看或编辑CVRP项目的架构文档ARCHITECTURE.md
+03:06:31,03:07:39,开发,在Windows Terminal中继续运行Python脚本PK_Solver.py
+03:07:39,03:09:27,开发,使用Cursor编辑器查看或编写ARCHITECTURE.md文件，涉及CVRP项目。
+03:09:27,03:10:13,开发,使用Notepad编辑器编写或查阅关于CVRP问题求解模型的框架设计与评估文档。
+03:10:13,03:12:54,系统,在文件资源管理器中浏览和操作与人工智能作业相关的文件，特别是CVRP相关的内容。
+03:12:54,03:20:12,开发,在Windows Terminal中运行Python脚本PK_Solver.py，进行CVRP相关项目的调试或测试。
+03:20:12,03:23:09,开发,使用Cursor编辑器查看或编写train.py文件，涉及CVRP项目。
+03:23:09,03:24:13,开发,浏览本地运行的CVRP POMO Solver页面 (Microsoft Edge)
+03:24:13,03:29:02,开发,编写和调试CVRP相关的代码 (Cursor IDE)
+03:29:02,03:30:04,开发,在终端运行PK_Solver脚本 (Windows Terminal)
+03:30:04,03:30:59,开发,继续编写和调试CVRP相关的代码 (Cursor IDE)
+03:30:59,03:32:01,开发,在终端查看PK_Solver的日志 (Windows Terminal)
+03:32:01,03:57:39,开发,编写和调试CVRP项目中的train.py脚本
+03:57:39,04:01:16,AI,使用ChatGPT讨论CVRP解法与优化策略
+04:01:16,12:15:48,开发,继续编写和调试CVRP项目中的train.py脚本
+12:15:48,12:26:49,系统,桌面整理
+12:26:49,12:41:48,娱乐,听音乐 (LX Music)
+12:41:48,12:42:53,开发,Vast.ai | 控制台 - 用户在云平台上查看或管理算力资源。
+12:42:53,12:44:54,学习,【如何租用GPU跑代码】实验室没卡、算力不够。手把手教你如何租用GPU跑深度学习项目 研究生基本功_哔哩哔哩_bilibili - 用户观看关于如何租用GPU进行深度学习项目的教学视频。
+12:44:54,12:46:16,AI,算力租赁安装依赖 - 用户使用ChatGPT询问或讨论与算力租赁相关的安装依赖问题。
+12:46:16,12:47:45,开发,Vast.ai | 控制台 - 用户继续在云平台上查看或管理算力资源。
+12:47:45,12:49:58,学习,简单聊聊：算力租赁相关内容（个人经验分享！）_哔哩哔哩_bilibili - 用户观看关于算力租赁的个人经验分享视频。
+12:49:58,12:51:23,开发,查阅AutoDL帮助文档 (查看技术文档)
+12:51:23,12:54:58,开发,编写和调试train.py (编写代码)
+12:54:58,12:56:11,开发,查阅AutoDL帮助文档 (查看技术文档)
+12:56:11,12:59:37,开发,编写和调试train.py (编写代码)
+12:59:37,13:01:19,系统,使用任务管理器 (系统设置)
+13:01:19,13:06:47,开发,编写和调试代码 (train.py - CVRP - Cursor [Administrator])
+13:06:47,13:08:21,系统,使用任务管理器
+13:08:21,13:09:37,开发,在PyCharm中编写或调试代码 (Train)
+13:09:37,13:20:51,开发,编写和调试代码 (train.py - Train - Cursor [Administrator])
+13:20:51,13:21:53,学习,查阅技术资料 (AutoDL算力云 | 弹性、好用、省钱，GPU算力零售价格新标杆 - Microsoft Edge)
+13:21:53,13:22:47,开发,编写代码(train.py - Train - Cursor [Administrator])
+13:22:47,13:24:25,开发,查阅技术文档(AutoDL算力云 | 弹性、好用、省钱，GPU算力零售价格新标杆 和另外 16 个页面 - 个人 - Microsoft​ Edge)
+13:24:25,13:25:48,开发,编写代码(train.py - Train - Cursor [Administrator])
+13:25:48,13:28:03,开发,终端操作(管理员: PK_Solver Logs)
+13:28:03,13:28:39,系统,文件资源管理器(F:\桌面资料\代办\人工智能作业\大作业\CVRP 和 1 个其他选项卡 - 文件资源管理器)
+13:28:39,13:30:25,开发,编写代码 (train.py - Train - Cursor [Administrator])
+13:30:25,13:31:48,开发,查阅技术文档 (AutoDL帮助文档)
+13:31:48,13:32:40,开发,查阅技术文档 (AutoDL帮助文档)
+13:32:40,13:35:34,开发,编写代码 (train.py - Train - Cursor [Administrator])
+13:35:34,13:38:16,AI,使用ChatGPT (AutoDL 训练部署教程)
+13:38:16,13:48:32,开发,编写代码(train.py - CVRP - Cursor [Administrator])
+13:48:32,13:52:59,开发,编辑实例文件(*Instance X-n101-k25.vrp - Notepad)
+13:52:59,13:55:10,开发,查阅AutoDL算力云相关资料([URL: https://www.autodl.com/create/west-C/cc6a41b03a/1/payg] AutoDL算力云 | 弹性、好用、省钱，GPU算力零售价格新标杆 和另外 15 个页面 - 个人 - Microsoft​ Edge)
+13:55:10,13:59:04,开发,编辑依赖文件(● requirements.txt - Train - Cursor [Administrator])
+13:59:04,14:01:17,开发,继续查阅AutoDL算力云相关资料([URL: https://www.autodl.com/create/west-C/cc6a41b03a/1/payg] AutoDL算力云 | 弹性、好用、省钱，GPU算力零售价格新标杆 和另外 17 个页面 - 个人 - Microsoft​ Edge)
+14:01:17,14:15:39,开发,使用Windows Terminal进行SSH连接并操作远程服务器
+14:15:39,14:17:36,开发,在JupyterLab中查看和编辑train.py文件
+14:17:36,14:20:20,开发,使用Windows Terminal进行SSH连接并操作远程服务器
+14:20:20,14:23:39,AI,使用ChatGPT查阅AutoDL训练部署教程
+14:23:39,14:31:07,开发,使用Windows Terminal进行SSH连接并操作远程服务器
+14:31:07,14:33:54,开发,train.py - Train - Cursor [Administrator] (使用PyCharm或类似IDE编写代码)
+14:33:54,14:35:07,开发,AutoDL算力云 | 弹性、好用、省钱，GPU算力零售价格新标杆 和另外 20 个页面 - 个人 - Microsoft​ Edge (查阅技术文档，了解算力资源)
+14:35:07,14:39:26,开发,管理员: C:\WINDOWS\system32\cmd.exe - ssh  -p 41213 root@connect.westd.seetacloud.com (通过终端连接远程服务器进行开发)
+14:39:26,14:40:03,开发,train.py - JupyterLab 和另外 20 个页面 - 个人 - Microsoft​ Edge (在JupyterLab中查看和调试代码)
+14:40:03,15:00:21,开发,管理员: C:\WINDOWS\system32\cmd.exe - ssh  -p 41213 root@connect.westd.seetacloud.com (通过终端连接远程服务器进行开发)
+15:00:21,15:01:21,AI,使用ChatGPT查询AutoDL训练部署教程
+15:01:21,15:02:31,开发,查阅PyTorch官方文档以获取本地安装指南
+15:02:31,15:41:49,开发,通过Windows Terminal连接到SeetaCloud服务器进行远程操作
+15:41:49,15:43:04,开发,查阅AutoDL帮助文档以了解配置信息
+15:43:04,15:52:09,开发,在Cursor编辑器中编写train.py文件进行训练
+15:52:09,15:57:37,开发,使用Windows Terminal进行SSH连接并执行命令
+15:57:37,16:00:27,知识库,在Obsidian中整理知识
+16:00:27,16:06:31,开发,继续使用Windows Terminal进行SSH连接并执行命令
+16:06:31,16:11:27,开发,在Cursor中编写代码
+16:11:27,16:13:46,开发,在JupyterLab中进行数据科学和机器学习相关工作
+16:13:46,16:16:12,开发,编写代码 (train.py - Train - Cursor [Administrator])
+16:16:12,16:18:02,开发,查阅技术文档 (JupyterLab - autodl-tmp)
+16:18:02,16:23:24,开发,编写代码 (train.py - Train - Cursor [Administrator])
+16:23:24,16:26:17,AI,使用 ChatGPT (显存优化建议)
+16:26:17,16:38:09,开发,编写代码 (train.py - CVRP - Cursor [Administrator])
+16:38:09,16:41:30,开发,使用Windows Terminal进行SSH连接到远程服务器，可能是进行代码调试或服务器管理。
+16:41:30,16:43:08,开发,在Cursor编辑器中编写或调试train.py文件，涉及CVRP（ Capacitated Vehicle Routing Problem）问题。
+16:43:08,16:45:56,开发,继续使用Windows Terminal进行SSH连接到远程服务器，可能是进行代码调试或服务器管理。
+16:45:56,16:48:35,开发,在Cursor编辑器中编写或调试train.py文件，涉及训练过程。
+16:48:35,16:52:04,开发,再次使用Windows Terminal进行SSH连接到远程服务器，可能是进行代码调试或服务器管理。
+16:52:04,16:54:57,开发,编写代码(PyCharm等), train.py - Train - Cursor [Administrator]
+16:54:57,16:57:45,开发,终端操作, PK_Solver Logs - python  PK_Solver.py
+16:57:45,17:04:29,知识库,使用 Obsidian 整理知识, 创建账号或登录 - Gemini Business - Ob仓库 - Obsidian v1.10.6
+17:04:29,17:08:55,开发,终端操作, 管理员: C:\WINDOWS\system32\cmd.exe - ssh  -p 41213 root@connect.westd.seetacloud.com
+17:08:55,17:11:30,AI,使用 ChatGPT 等, CVRP POMO Solver 和另外 13 个页面 - 个人 - Microsoft​ Edge
+17:11:30,17:14:57,开发,使用命令行工具连接远程服务器进行开发工作。
+17:14:57,17:17:47,开发,在JupyterLab中编写和调试Python代码。
+17:17:47,17:18:43,系统,在文件资源管理器中查看和管理文件。
+17:18:43,17:20:17,开发,在终端中运行Python脚本PK_Solver.py。
+17:20:17,17:22:12,知识库,使用Notepad编辑文件Instance X-n101-k25.vrp。
+17:22:12,17:24:15,系统,文件资源管理器 - 高活跃度，浏览与人工智能作业相关的文件夹
+17:24:15,17:25:27,开发,编写代码 - 在Cursor中编辑train.py文件
+17:25:27,17:26:46,开发,查阅技术文档 - 在JupyterLab中查看和编辑train.py文件
+17:26:46,17:31:17,开发,终端操作 - 在管理员权限的Windows Terminal中查看PK_Solver日志
+17:31:17,17:37:15,开发,调试 - 在本地运行的Web应用CVRP POMO Solver中进行调试
+17:37:15,17:38:59,AI,使用ChatGPT讨论提高GPU利用率
+17:38:59,17:40:31,开发,在Cursor中编写和调试train.py脚本
+17:40:31,17:42:49,开发,在Windows Terminal中运行PK_Solver.py脚本
+17:42:49,17:44:05,办公,使用Notepad编辑solution_report.txt文件
+17:44:05,17:46:20,开发,在Windows Terminal中查看PK_Solver日志
+17:46:20,17:49:05,办公,使用记事本编辑 solution_report.txt 文档
+17:49:05,17:50:23,开发,浏览 AutoDL 算力云平台，查看个人主页
+17:50:23,17:51:49,系统,在文件资源管理器中查看人工智能作业相关文件
+17:51:49,18:06:16,开发,继续浏览 AutoDL 算力云平台，查看实例列表
+18:06:16,18:30:28,开发,通过 Windows Terminal 连接远程服务器，进行终端操作
+18:30:28,18:33:52,开发,train.py - Train - Cursor [Administrator] (编写代码)
+18:33:52,18:40:53,开发,PK_Solver Logs - python  PK_Solver.py (终端操作)
+18:40:53,18:42:16,知识库,创建账号或登录 - Gemini Business - Ob仓库 - Obsidian v1.10.6 (使用Obsidian整理知识)
+18:42:16,18:44:31,AI,CVRP POMO Solver 和另外 14 个页面 - 个人 - Microsoft​ Edge (访问本地AI相关页面)
+18:44:31,18:49:07,知识库,创建账号或登录 - Gemini Business - Ob仓库 - Obsidian v1.10.6 (使用Obsidian整理知识)
+18:49:07,18:53:12,社交,使用微信进行即时通讯
+18:53:12,19:17:18,开发,在终端管理日志 (管理员: PK_Solver Logs)
+19:17:18,19:22:08,娱乐,观看 B站视频 "东北8.8元半自助面馆 甚至还有把子肉！"
+19:22:08,19:25:13,娱乐,观看 B站视频 "这年头还有1.5一碗的烩面？给我干上世纪去了？"
+19:25:13,19:26:30,娱乐,观看 B站视频 "全沈阳最奇怪的炒面，简直就是一张饼"
+19:26:30,19:27:18,知识库,创建账号或登录 - Gemini Business - Ob仓库 - Obsidian v1.10.6 (使用Obsidian进行知识管理)
+19:27:18,19:43:20,开发,train.py - Train - Cursor [Administrator] (编写和调试代码)
+19:43:20,19:44:13,开发,AutoDL算力云 | 弹性、好用、省钱，GPU算力零售价格新标杆 和另外 10 个页面 - 个人 - Microsoft​ Edge (查阅技术文档)
+19:44:13,19:48:30,开发,AutoDL算力云 | 弹性、好用、省钱，GPU算力零售价格新标杆 和另外 11 个页面 - 个人 - Microsoft​ Edge (查阅技术文档)
+19:48:30,19:49:44,开发,AutoDL帮助文档 和另外 12 个页面 - 个人 - Microsoft​ Edge (查阅技术文档)
+19:49:44,19:52:59,开发,编写代码(PyCharm等), train.py - Train - Cursor [Administrator]
+19:52:59,19:54:26,开发,查阅技术文档, AutoDL算力云 | 弹性、好用、省钱，GPU算力零售价格新标杆 和另外 12 个页面 - 个人 - Microsoft​ Edge
+19:54:26,19:56:08,开发,查阅技术文档, AutoDL算力云 | 弹性、好用、省钱，GPU算力零售价格新标杆 和另外 11 个页面 - 个人 - Microsoft​ Edge
+19:56:08,20:00:13,开发,编写代码(JupyterLab), train.py - JupyterLab 和另外 12 个页面 - 个人 - Microsoft​ Edge
+20:00:13,20:07:43,开发,终端操作, 管理员: C:\WINDOWS\system32\cmd.exe - ssh  -p 41213 root@connect.westd.seetacloud.com
+20:07:43,20:10:47,开发,编写代码 (train.py - Train - Cursor [Administrator])
+20:10:47,20:12:08,AI,使用 ChatGPT 查询安装 lightning 包
+20:12:08,20:14:48,开发,终端操作 (管理员: C:\WINDOWS\system32\cmd.exe - ssh  -p 41213 root@connect.westd.seetacloud.com)
+20:14:48,20:18:21,开发,编写代码 (train.py - Train - Cursor [Administrator])
+20:18:21,20:20:50,开发,终端操作 (管理员: C:\WINDOWS\system32\cmd.exe - ssh  -p 41213 root@connect.westd.seetacloud.com)
+20:20:50,20:25:49,开发,编写代码 (train.py - Train - Cursor [Administrator])
+20:25:49,20:26:28,AI,使用 ChatGPT (ChatGPT - Google Chrome)
+20:26:28,20:32:22,AI,使用 ChatGPT 查询关于POMO CVRP模型规模 (POMO CVRP模型规模 - Google Chrome)
+20:32:22,20:35:07,开发,编写代码 (train.py - Train - Cursor [Administrator])
+20:35:07,20:35:58,AI,使用 ChatGPT 查询关于POMO CVRP模型规模 (POMO CVRP模型规模 - Google Chrome)
+20:35:58,20:37:59,开发,管理员: PK_Solver Logs (终端操作)
+20:37:59,20:39:05,开发,train.py - Train - Cursor [Administrator] (编写代码)
+20:39:05,20:39:56,开发,管理员: PK_Solver Logs (终端操作)
+20:39:56,20:40:31,开发,train.py - Train - Cursor [Administrator] (编写代码)
+20:40:31,20:47:31,开发,CVRP POMO Solver 和另外 13 个页面 - 个人 - Microsoft​ Edge (查阅技术文档)
+20:47:31,20:48:18,开发,使用终端进行SSH连接到远程服务器 (管理员: C:\WINDOWS\system32\cmd.exe - ssh  -p 41213 root@connect.westd.seetacloud.com)
+20:48:18,20:49:39,开发,在JupyterLab中查看和编辑项目文件 (myproject - JupyterLab 和另外 13 个页面 - 个人 - Microsoft​ Edge)
+20:49:39,20:51:09,AI,与ChatGPT进行对话 (POMO CVRP模型规模 - Google Chrome)
+20:51:09,20:54:50,开发,编写和调试Python代码 (train.py - Train - Cursor [Administrator])
+20:54:50,20:56:27,开发,在JupyterLab中查看和编辑项目文件 (myproject - JupyterLab 和另外 13 个页面 - 个人 - Microsoft​ Edge)
+20:56:27,20:57:43,开发,使用命令行终端进行SSH连接到远程服务器
+20:57:43,20:58:24,开发,在浏览器中查看远程服务器的监控面板
+20:58:24,21:00:56,开发,运行训练脚本 (train.py)
+21:00:56,21:01:52,开发,在浏览器中查看远程服务器的监控面板
+21:01:52,21:05:54,知识库,在Obsidian中创建账号或登录
+21:05:54,21:07:24,学习,观看B站关于POMO CVRP的教学视频
+21:07:24,21:08:31,学习,在B站搜索并查看关于CVRP的相关内容
+21:08:31,21:10:01,AI,使用ChatGPT查询POMO CVRP模型规模
+21:10:01,21:12:09,AI,使用ChatGPT探讨深度强化学习解CVRP的方法
+21:12:09,21:12:53,开发,查阅Hugging Face上的GreedRL-VRP预训练模型
+21:12:53,21:14:50,AI,使用ChatGPT讨论深度强化学习解CVRP问题
+21:14:50,21:15:49,系统,浏览文件资源管理器中的CVRP相关文件
+21:15:49,21:17:52,开发,在Windows Terminal中运行Python脚本PK_Solver.py
+21:17:52,21:18:41,AI,使用ChatGPT讨论深度强化学习解CVRP问题
+21:18:41,21:22:11,开发,在Windows Terminal中通过SSH连接到远程服务器
+21:22:11,21:27:06,开发,编写代码 (train.py - Train - Cursor [Administrator])
+21:27:06,21:29:49,开发,终端操作 (管理员: C:\WINDOWS\system32\cmd.exe - ssh  -p 41213 root@connect.westd.seetacloud.com)
+21:29:49,21:33:26,系统,文件资源管理器操作 (F:\桌面资料\代办\人工智能作业 和 1 个其他选项卡 - 文件资源管理器)
+21:33:26,21:34:35,学习,查阅学习管理系统 (南京理工大学实验教学管理系统 和另外 14 个页面 - 个人 - Microsoft​ Edge)
+21:34:35,21:41:33,开发,终端操作 (管理员: C:\WINDOWS\system32\cmd.exe - ssh  -p 41213 root@connect.westd.seetacloud.com)
+21:41:33,21:45:07,学习,观看B站教学视频关于深度学习炼丹技巧，涉及人工智能/机器学习/深度学习。
+21:45:07,21:51:27,AI,使用ChatGPT讨论深度强化学习解决CVRP问题。
+21:51:27,21:55:46,学习,继续观看B站教学视频关于深度学习炼丹技巧，涉及人工智能/机器学习/深度学习。
+21:55:46,21:56:22,开发,编写训练脚本train.py，进行代码调试。
+21:56:22,21:59:04,学习,继续观看B站教学视频关于深度学习炼丹技巧，涉及人工智能/机器学习/深度学习。
+21:59:04,22:03:18,开发,编写代码(train.py - Train - Cursor [Administrator])
+22:03:18,22:04:23,学习,观看教学视频(深度学习小技巧-Keras常用学习率调整方法介绍)
+22:04:23,22:12:47,开发,编写代码(train.py - Train - Cursor [Administrator])
+22:12:47,22:13:57,开发,终端操作(管理员: C:\WINDOWS\system32\cmd.exe - ssh  -p 41213 root@connect.westd.seetacloud.com)
+22:13:57,22:18:51,办公,查看算力云平台信息(AutoDL算力云 | 弹性、好用、省钱，GPU算力零售价格新标杆)
+22:18:51,22:21:11,系统,设置 - 用户在系统设置中进行操作。
+22:21:11,22:23:53,AI,快速切换日语英语 - Google Chrome - 用户使用ChatGPT进行语言切换。
+22:23:53,22:25:47,办公,*Instance X-n101-k25.vrp - Notepad - 用户在记事本中编辑文件。
+22:25:47,22:29:01,开发,管理员: C:\WINDOWS\system32\cmd.exe - ssh  -p 41213 root@connect.westd.seetacloud.com - 用户通过命令行进行SSH连接。
+22:29:01,22:30:40,开发,AutoPanel 和另外 11 个页面 - 个人 - Microsoft Edge - 用户访问远程服务器监控面板。
+22:30:40,22:38:16,知识库,使用 Obsidian 整理知识 (Gemini Enterprise - Ob仓库 - Obsidian v1.10.6)
+22:38:16,22:52:39,系统,浏览多个页面 (AutoPanel 和另外 11 个页面 - 个人 - Microsoft Edge)
+22:52:39,23:00:12,系统,文件资源管理器查看文件 (F:\桌面资料\代办\人工智能作业\大作业\CVRP 和 1 个其他选项卡 - 文件资源管理器)
+23:00:12,23:22:37,开发,终端操作 (管理员: C:\WINDOWS\system32\cmd.exe - ssh  -p 41213 root@connect.westd.seetacloud.com)
+23:22:37,23:23:57,娱乐,观看教学视频 (冈崎律子音乐分析-哔哩哔哩_bilibili 和另外 13 个页面 - 个人 - Microsoft Edge)
+23:23:57,23:27:11,娱乐,浏览萌娘百科上的冈崎律子页面和其他15个页面，活跃度高。
+23:27:11,23:28:23,AI,使用ChatGPT进行歌曲分析《I'm always close with you》，活跃度低。
+23:28:23,23:29:09,娱乐,继续浏览萌娘百科上的冈崎律子页面和其他15个页面，活跃度低。
+23:29:09,23:29:48,娱乐,浏览萌娘百科上的交响乐之雨页面和其他15个页面，活跃度低。
+23:29:48,23:30:19,开发,使用Windows Terminal通过SSH连接到SeetaCloud服务器，活跃度低。
+23:30:19,23:32:50,娱乐,浏览萌娘百科上的交响乐之雨页面，同时打开了13个其他页面。
+23:32:50,23:35:01,娱乐,使用Lx-Music-Desktop听亚咲花的歌曲“わやわやわー！”。
+23:35:01,23:36:12,开发,在Windows Terminal中通过SSH连接到Seetacloud服务器。
+23:36:12,23:38:03,娱乐,使用Lx-Music-Desktop听放課後ティータイム的歌曲“冬の日”。
+23:38:03,23:39:13,系统,在文件资源管理器中查看D:\pycharmProjects\Music Player目录，同时打开了1个其他选项卡。
+23:39:13,23:43:16,开发,编写代码(Python项目CVRP – PK_Solver.py)
+23:43:16,23:46:14,娱乐,观看娱乐视频(恐怖生存游戏《森林》系列续作《森林3》发表)
+23:46:14,23:49:38,娱乐,玩游戏(Steam平台)
+23:49:38,23:50:39,娱乐,浏览娱乐网站(哔哩哔哩首页)
+23:50:39,23:54:22,开发,终端操作(ssh连接远程服务器)
