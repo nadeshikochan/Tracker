@@ -1,5 +1,5 @@
 {
-    "api_key": "ms-9cc94acc-9a7a-4323-bc09-02f2733313ea",
+    "api_key": "",
     "base_url": "https://api-inference.modelscope.cn/v1/",
     "model": "Qwen/Qwen2.5-72B-Instruct",
     
