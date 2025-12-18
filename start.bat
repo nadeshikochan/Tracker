@@ -1,113 +1,222 @@
 @echo off
-REM 移除 chcp 65001 可能导致的兼容性闪退问题，如果乱码请恢复
-chcp 65001 >nul
+REM ==========================================
+REM   AI Time Tracker - Start Script v2.1
+REM   Fixed: Encoding issues, better error handling
+REM ==========================================
 
+REM Use UTF-8 codepage
+chcp 65001 >nul 2>&1
+
+REM Change to script directory
 cd /d "%~dp0"
-title Python项目启动器(调试版)
+title AI Time Tracker
 
+REM Enable delayed expansion
 setlocal EnableDelayedExpansion
 
-echo ==========================================
-echo       正在初始化环境 (调试模式)
-echo ==========================================
+echo.
+echo  ========================================
+echo       AI Time Tracker - Starting...
+echo  ========================================
 echo.
 
-REM ========= 1. 检查 Python =========
-python --version >nul 2>&1
+REM ========= 1. Check Python =========
+echo [1/5] Checking Python...
+where python >nul 2>&1
 if !errorlevel! neq 0 (
-    echo [错误] 未检测到 Python 或未加入 PATH。
+    echo.
+    echo [ERROR] Python not found in PATH!
+    echo Please install Python 3.8+ and add to PATH
+    echo Download: https://www.python.org/downloads/
+    echo.
+    echo Make sure to check "Add Python to PATH" during installation.
     echo.
     pause
     goto END
 )
 
-REM ========= 2. 虚拟环境 =========
+python --version 2>&1
+if !errorlevel! neq 0 (
+    echo [ERROR] Python found but cannot run!
+    pause
+    goto END
+)
+echo       OK - Python installed
+
+REM ========= 2. Virtual Environment =========
+echo.
+echo [2/5] Setting up virtual environment...
+
 if not exist "venv" (
-    echo [1/4] 正在创建虚拟环境...
+    echo       Creating virtual environment...
     python -m venv venv
     if !errorlevel! neq 0 (
-        echo [错误] 创建虚拟环境失败！
-        echo.
+        echo [ERROR] Failed to create virtual environment!
+        echo Try running: python -m pip install --upgrade pip
         pause
         goto END
     )
+    echo       OK - Virtual environment created
 ) else (
-    echo [1/4] 检测到现有虚拟环境。
+    echo       OK - Virtual environment exists
 )
 
-call venv\Scripts\activate.bat
-if !errorlevel! neq 0 (
-    echo [错误] 无法激活虚拟环境。
+REM Activate venv
+if exist "venv\Scripts\activate.bat" (
+    call venv\Scripts\activate.bat
+    echo       OK - Virtual environment activated
+) else (
+    echo [ERROR] Cannot find venv\Scripts\activate.bat
+    echo Try deleting the venv folder and run again.
     pause
     goto END
 )
 
-REM ========= 3. 依赖 =========
+REM ========= 3. Install Dependencies =========
+echo.
+echo [3/5] Checking dependencies...
+
 if exist "requirements.txt" (
-    echo [2/4] 正在安装依赖...
-    REM 增加 --no-cache-dir 尝试解决部分安装崩溃问题
-    pip install -r requirements.txt
-    
-    REM 关键：检查 pip 是否报错
+    REM Check if streamlit is installed
+    pip show streamlit >nul 2>&1
     if !errorlevel! neq 0 (
-        echo.
-        echo ==========================================
-        echo [严重错误] 依赖安装失败！
-        echo ==========================================
-        pause
-        goto END
+        echo       Installing dependencies...
+        echo       This may take a few minutes on first run...
+        pip install -r requirements.txt
+        if !errorlevel! neq 0 (
+            echo.
+            echo [ERROR] Failed to install dependencies!
+            echo.
+            echo Try these solutions:
+            echo 1. Check internet connection
+            echo 2. Use a mirror: pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+            echo 3. Install manually: pip install streamlit plotly pandas psutil pywin32 uiautomation pynput pystray Pillow openai
+            echo.
+            pause
+            goto END
+        )
+        echo       OK - Dependencies installed
+    ) else (
+        echo       OK - Dependencies ready
     )
 ) else (
-    echo [跳过] 未找到 requirements.txt
+    echo [WARNING] requirements.txt not found
+    echo Creating minimal requirements...
+    (
+        echo streamlit
+        echo plotly
+        echo pandas
+        echo psutil
+        echo pywin32
+        echo uiautomation
+        echo pynput
+        echo pystray
+        echo Pillow
+        echo openai
+    ) > requirements.txt
+    pip install -r requirements.txt
 )
 
+REM ========= 4. Check Config =========
+echo.
+echo [4/5] Checking configuration...
+
+if not exist "config.json" (
+    echo       Creating default config file...
+    (
+        echo {
+        echo     "api_key": "",
+        echo     "base_url": "https://api-inference.modelscope.cn/v1/",
+        echo     "model": "Qwen/Qwen2.5-72B-Instruct",
+        echo     "check_interval": 30,
+        echo     "batch_size": 5,
+        echo     "idle_timeout": 300,
+        echo     "ai_retry_times": 3,
+        echo     "ai_retry_delay": 5,
+        echo     "browser_processes": ["chrome.exe", "msedge.exe", "firefox.exe"]
+        echo }
+    ) > config.json
+    echo.
+    echo ==========================================
+    echo  [IMPORTANT] Please configure API Key!
+    echo ==========================================
+    echo.
+    echo  1. Open config.json
+    echo  2. Fill in your API Key
+    echo  3. Save and run this script again
+    echo.
+    notepad config.json
+    pause
+    goto END
+)
+
+REM Check if API Key is empty
+findstr /c:"\"api_key\": \"\"" config.json >nul 2>&1
+if !errorlevel! equ 0 (
+    echo.
+    echo [NOTE] API Key not configured!
+    echo Please edit config.json and add your API key.
+    echo.
+    notepad config.json
+    pause
+    goto END
+)
+echo       OK - Config file valid
+
+REM ========= 5. Check for data issues =========
+echo.
+echo [5/6] Checking data files...
+
+if exist "logs\*.csv" (
+    echo       Found existing CSV files.
+    echo       If you see errors, run: python fix_csv.py
+)
+
+REM ========= 6. Start Program =========
+echo.
+echo [6/6] Starting system...
+echo.
+echo ==========================================
+echo  System starting...
+echo ==========================================
+echo.
+echo  - System tray icon will appear
+echo  - Double-click tray icon to open dashboard
+echo  - Right-click tray icon for more options
+echo.
+echo  WebUI URL: http://localhost:8502
+echo.
+echo ------------------------------------------
 echo.
 
-
-REM ========= 4. 配置检查 =========
-echo [3/4] 正在检查配置文件...
-
-
-
-(
-echo import json, os, sys
-echo cfg='config.json'
-echo d={"api_key":"","base_url":"https://api-inference.modelscope.cn/v1/","model":"Qwen/Qwen2.5-72B-Instruct","check_interval":30,"batch_size":5}
-echo if not os.path.exists(cfg^):
-echo     json.dump(d,open(cfg,'w',encoding='utf-8'^),indent=4,ensure_ascii=False^);sys.exit(2^)
-echo try:
-echo     data=json.load(open(cfg,'r',encoding='utf-8'^)^)
-echo     k=str(data.get("api_key",""^)^).strip(^)
-echo     sys.exit(0 if k else 1^)
-echo except: sys.exit(1^)
-) > _check_conf.py
-
-python _check_conf.py
-set CHECK_RESULT=!errorlevel!
-if exist _check_conf.py del _check_conf.py
-
-if !CHECK_RESULT!==2 (
-    echo.
-    echo [提示] 已自动生成 config.json。
-    echo 请打开 config.json 填入 API Key 后重新运行。
+REM Check if launcher.py exists
+if not exist "launcher.py" (
+    echo [ERROR] launcher.py not found!
     pause
     goto END
 )
 
-
-
-REM ========= 5. 启动主程序 =========
-echo [4/4] 启动 launcher.py...
-echo ------------------------------------------
+REM Start main program
 python launcher.py
+
+REM If we get here, program exited
+echo.
+echo ------------------------------------------
+echo Program exited.
+echo.
+
 if !errorlevel! neq 0 (
+    echo [ERROR] Program exited with error code: !errorlevel!
     echo.
-    echo [程序崩溃] 运行结束，状态码：!errorlevel!
-) else (
-    echo [程序结束] 运行完毕。
+    echo Troubleshooting:
+    echo 1. Is port 8502 already in use?
+    echo    Run: netstat -ano | findstr 8502
+    echo 2. Check logs\runtime.log for details
+    echo 3. Try running directly: python tracker.py
+    echo.
 )
 
 :END
 echo.
-echo 按任意键退出...
+echo Press any key to exit...
 pause >nul
