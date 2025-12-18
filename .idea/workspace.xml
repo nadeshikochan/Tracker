@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="609fe243-d026-47c6-b6a0-e1a1bd4fd597" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/common.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/launcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/launcher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/runtime.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/runtime.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/common.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/launcher.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/start.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/tracker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/webui.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/start.bat" beforeDir="false" afterPath="$PROJECT_DIR$/start.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/tracker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webui.py" beforeDir="false" afterPath="$PROJECT_DIR$/webui.py" afterDir="false" />
-    </list>
+    <list default="true" id="609fe243-d026-47c6-b6a0-e1a1bd4fd597" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
