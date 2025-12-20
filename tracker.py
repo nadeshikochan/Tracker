@@ -1,5 +1,5 @@
-# tracker.py - 修复版 v2.2
-# 修复：休眠误判、工作目录、重复日志问题
+# tracker.py - v3.0 Simplified
+# No logging module, just common.log()
 
 import time
 import os
@@ -11,46 +11,56 @@ from datetime import datetime, timedelta
 import re
 import csv
 
-# ==========================================
-# 【修复】确保工作目录正确
-# ==========================================
-# 获取脚本所在目录（不是当前工作目录）
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-os.chdir(SCRIPT_DIR)  # 切换到脚本目录
+os.chdir(SCRIPT_DIR)
 
-# Windows 特定导入
 import win32gui
 import win32process
 
-# ==========================================
-# 1. 环境初始化
-# ==========================================
 common.ensure_dirs()
-logger = common.setup_logging()
 
 try:
     from openai import OpenAI
     import uiautomation as auto
     from pynput import mouse, keyboard
 except ImportError as e:
-    logger.error(f"缺少依赖库: {e}")
-    logger.error("请运行: pip install openai psutil pywin32 uiautomation pynput pystray Pillow")
+    common.log(f"Missing dependency: {e}")
     sys.exit(1)
 
 CONFIG = common.load_config()
 
-# ==========================================
-# 2. AI 提示词
-# ==========================================
-SYSTEM_PROMPT=CONFIG.get("SYSTEM_PROMPT")
+DEFAULT_SYSTEM_PROMPT = """
+你是一个专业的时间管理助手。根据电脑操作日志对用户行为进行分类。
+
+【日志字段说明】
+格式：[开始时间 - 结束时间] <进程名> [活跃度: 低/中/高] [URL: ...] 窗口标题
+
+【9大分类规则】
+1. 【开发】: 编写代码, 调试, 查阅技术文档, 终端操作
+2. 【AI】: 使用 ChatGPT, Claude, Gemini 等AI工具
+3. 【知识库】: 使用 Obsidian, Notion 等笔记软件
+4. 【学习】: 观看教学视频, 阅读PDF/电子书
+5. 【办公】: 处理文档, 邮件, 会议软件
+6. 【社交】: 即时通讯(微信, QQ等)
+7. 【娱乐】: 游戏, 娱乐视频, 音乐
+8. 【系统】: 文件管理器, 系统设置, 桌面
+9. 【休息】: 长时间无操作
+
+【输出要求】
+1. 严格CSV格式，无表头，无多余解释
+2. 每行：开始时间,结束时间,任务分类,任务详情
+3. 时间格式：HH:MM:SS
+4. 如果任务详情包含逗号，用双引号包裹
+
+【示例】
+19:30:00,20:15:00,开发,VSCode编写Python代码
+20:15:00,20:30:00,社交,微信聊天
+"""
+
+SYSTEM_PROMPT = CONFIG.get("SYSTEM_PROMPT", DEFAULT_SYSTEM_PROMPT)
 
 
-# ==========================================
-# 3. 活跃度监听器
-# ==========================================
 class InputMonitor:
-    """后台监听鼠标点击和键盘敲击"""
-
     def __init__(self):
         self.click_count = 0
         self.key_count = 0
@@ -63,7 +73,7 @@ class InputMonitor:
             self.mouse_listener.start()
             self.key_listener.start()
         except Exception as e:
-            logger.error(f"输入监听启动失败: {e}")
+            common.log(f"Input monitor failed: {e}")
 
     def _on_click(self, x, y, button, pressed):
         if pressed:
@@ -85,7 +95,6 @@ class InputMonitor:
             total = self.click_count + self.key_count
             self.click_count = 0
             self.key_count = 0
-
         if total < 5:
             return "低"
         if total < 50:
@@ -102,20 +111,13 @@ class InputMonitor:
             return time.time() - self.last_activity_time
 
 
-# ==========================================
-# 4. 数据采集器
-# ==========================================
 class DataCollector:
-    """获取当前前台窗口信息"""
-
     def __init__(self):
         self.process_cache = {}
-        self.browser_processes = [p.lower() for p in CONFIG.get("browser_processes", 
-            ['chrome.exe', 'msedge.exe', 'firefox.exe', 'opera.exe', 'brave.exe'])]
-        # 【优化】缓存上次URL获取时间，避免频繁调用
+        self.browser_processes = [p.lower() for p in CONFIG.get("browser_processes",
+            ['chrome.exe', 'msedge.exe', 'firefox.exe'])]
         self.last_url_fetch_time = 0
         self.last_url_cache = ""
-        self.url_cache_duration = 2  # URL缓存2秒
 
     def get_process_name(self, pid):
         if pid in self.process_cache:
@@ -129,25 +131,23 @@ class DataCollector:
             return "unknown"
 
     def get_browser_url(self, hwnd, process_name):
-        """获取浏览器地址栏URL（带缓存）"""
-        # 【优化】URL获取很耗时，添加缓存
         now = time.time()
-        if now - self.last_url_fetch_time < self.url_cache_duration:
+        if now - self.last_url_fetch_time < 2:
             return self.last_url_cache
-        
+
         try:
             window = auto.ControlFromHandle(hwnd)
-            
+
             if 'firefox' in process_name:
-                edit = window.EditControl(searchDepth=10, AutomationId="urlbar-input")
+                edit = window.EditControl(searchDepth=8, AutomationId="urlbar-input")
                 if not edit.Exists():
-                    edit = window.EditControl(searchDepth=8)
+                    edit = window.EditControl(searchDepth=6)
             elif 'edge' in process_name:
-                edit = window.EditControl(Name="Address and search bar", searchDepth=8)
+                edit = window.EditControl(Name="Address and search bar", searchDepth=6)
                 if not edit.Exists():
-                    edit = window.EditControl(searchDepth=8, foundIndex=1)
+                    edit = window.EditControl(searchDepth=6, foundIndex=1)
             else:
-                edit = window.EditControl(searchDepth=8, foundIndex=1)
+                edit = window.EditControl(searchDepth=6, foundIndex=1)
 
             if edit.Exists():
                 try:
@@ -159,12 +159,11 @@ class DataCollector:
                     pass
         except:
             pass
-        
+
         self.last_url_fetch_time = now
         return ""
 
     def get_active_window_info(self):
-        """获取当前前台窗口信息"""
         try:
             hwnd = win32gui.GetForegroundWindow()
             if not hwnd:
@@ -183,12 +182,7 @@ class DataCollector:
             return None, None, None
 
 
-# ==========================================
-# 5. AI 总结器
-# ==========================================
 class AsyncAISummarizer:
-    """AI日志分析器"""
-
     def __init__(self):
         self.client = None
         if CONFIG.get("api_key"):
@@ -198,8 +192,8 @@ class AsyncAISummarizer:
                     base_url=CONFIG.get("base_url", "https://api.openai.com/v1")
                 )
             except Exception as e:
-                logger.error(f"OpenAI客户端初始化失败: {e}")
-        
+                common.log(f"OpenAI init failed: {e}")
+
         self.lock = threading.Lock()
         self.retry_times = CONFIG.get("ai_retry_times", 3)
         self.retry_delay = CONFIG.get("ai_retry_delay", 5)
@@ -211,19 +205,17 @@ class AsyncAISummarizer:
         try:
             with open(raw_path, "a", encoding="utf-8") as f:
                 f.write("\n".join(log_lines) + "\n")
-        except Exception as e:
-            logger.error(f"Raw日志保存失败: {e}")
+        except:
+            pass
 
     def _save_failed(self, log_lines, error_msg):
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
         failed_path = os.path.join(common.FAILED_LOG_DIR, f"failed_{timestamp}.txt")
         try:
             with open(failed_path, "w", encoding="utf-8") as f:
-                f.write(f"# 失败时间: {datetime.now()}\n")
-                f.write(f"# 错误信息: {error_msg}\n")
-                f.write("# 原始日志:\n")
+                f.write(f"# Error: {error_msg}\n")
                 f.write("\n".join(log_lines))
-            logger.warning(f"⚠️ 失败日志已保存到: {failed_path}")
+            common.log(f"Failed log saved: {failed_path}")
         except:
             pass
 
@@ -246,49 +238,35 @@ class AsyncAISummarizer:
             parts = line.split(',')
             if len(parts) >= 4:
                 return [parts[0], parts[1], parts[2], ','.join(parts[3:])]
-            elif len(parts) == 3:
-                return parts + ['']
             return None
 
     def _save_csv(self, csv_content, log_lines):
         clean_text = csv_content.replace("```csv", "").replace("```", "").strip()
         lines = [line for line in clean_text.split('\n') if line.strip() and ',' in line]
         if not lines:
-            logger.warning("AI返回内容为空或格式错误")
+            common.log("AI response empty or invalid format")
             return
 
-        dates_in_logs = set()
-        for log in log_lines:
-            date_str = self._extract_date_from_log(log)
-            dates_in_logs.add(date_str)
-
-        if len(dates_in_logs) == 1:
-            date_str = dates_in_logs.pop()
-            self._write_to_csv(date_str, lines)
-        else:
-            date_str = self._extract_date_from_log(log_lines[0]) if log_lines else common.get_today_str()
-            self._write_to_csv(date_str, lines)
+        date_str = self._extract_date_from_log(log_lines[0]) if log_lines else common.get_today_str()
+        self._write_to_csv(date_str, lines)
 
     def _write_to_csv(self, date_str, lines):
         file_path = os.path.join(common.LOG_DIR, f"{date_str}.csv")
-        
+
         with self.lock:
             new_file = not os.path.exists(file_path)
             try:
                 with open(file_path, "a", encoding="utf-8-sig", newline="") as f:
                     writer = csv.writer(f, quoting=csv.QUOTE_MINIMAL)
-                    
                     if new_file:
                         writer.writerow(['开始时间', '结束时间', '任务分类', '任务详情'])
-                    
                     for line in lines:
                         parsed = self._parse_csv_line(line)
                         if parsed:
                             writer.writerow(parsed)
-                
-                logger.info(f"✅ AI分析完成: 写入 {len(lines)} 条记录到 {date_str}.csv")
+                common.log(f"AI done: {len(lines)} records -> {date_str}.csv")
             except Exception as e:
-                logger.error(f"❌ CSV写入失败: {e}")
+                common.log(f"CSV write failed: {e}")
 
     def process_logs_async(self, log_lines):
         if not log_lines:
@@ -298,14 +276,13 @@ class AsyncAISummarizer:
         self._save_raw(log_lines, date_str)
 
         if not self.client:
-            logger.warning("⚠️ 未配置API Key，跳过AI分析")
+            common.log("No API key, skipping AI")
             return
 
         def run_ai_task(lines):
-            logger.info(f"🔄 请求AI分析 {len(lines)} 条日志...")
+            common.log(f"AI request: {len(lines)} logs...")
             user_content = "请分析以下日志并输出CSV格式结果:\n" + "\n".join(lines)
-            
-            last_error = None
+
             for attempt in range(self.retry_times):
                 try:
                     response = self.client.chat.completions.create(
@@ -320,25 +297,19 @@ class AsyncAISummarizer:
                     self._save_csv(response.choices[0].message.content, lines)
                     return
                 except Exception as e:
-                    last_error = str(e)
                     if attempt < self.retry_times - 1:
-                        logger.warning(f"⚠️ AI请求失败(尝试 {attempt+1}/{self.retry_times}): {e}")
+                        common.log(f"AI retry {attempt+1}: {e}")
                         time.sleep(self.retry_delay)
                     else:
-                        logger.error(f"❌ AI请求最终失败: {e}")
-                        self._save_failed(lines, last_error)
+                        common.log(f"AI failed: {e}")
+                        self._save_failed(lines, str(e))
 
         thread = threading.Thread(target=run_ai_task, args=(log_lines,))
         thread.daemon = True
         thread.start()
 
 
-# ==========================================
-# 6. 智能追踪器
-# ==========================================
 class SmartTracker:
-    """主追踪器"""
-
     def __init__(self):
         self.collector = DataCollector()
         self.input_monitor = InputMonitor()
@@ -348,30 +319,20 @@ class SmartTracker:
         self.batch_size = CONFIG.get("batch_size", 5)
         self.check_interval = CONFIG.get("check_interval", 30)
         self.idle_timeout = CONFIG.get("idle_timeout", 300)
-        
-        # 【关键修复】休眠检测阈值
-        # 原来是5秒太短了，改为120秒（2分钟）
-        # 只有真正的系统休眠/睡眠才会超过这个时间
         self.sleep_threshold = CONFIG.get("sleep_threshold", 120)
 
-        # 稳定态
         self.stable_process = ""
         self.stable_title = ""
         self.stable_url = ""
         self.stable_start_time = time.time()
 
-        # 待定态
         self.pending_process = None
         self.pending_title = None
         self.pending_url = None
         self.pending_start_time = 0
 
-        # 空闲状态
         self.is_idle = False
         self.idle_start_time = 0
-
-        # 【修复】使用单调时钟而不是wall clock
-        # time.monotonic() 不受系统时间调整影响，更适合测量时间间隔
         self.last_loop_monotonic = time.monotonic()
 
     def flush_buffer(self):
@@ -397,48 +358,40 @@ class SmartTracker:
         dt_start = datetime.fromtimestamp(start_ts)
         dt_end = datetime.fromtimestamp(end_ts)
 
-        # 跨天检测
         if dt_start.date() != dt_end.date():
             next_day = datetime.combine(dt_start.date() + timedelta(days=1), datetime.min.time())
             midnight_ts = next_day.timestamp()
-            print(f"✂️ 跨天切割: {dt_start.date()} -> {dt_end.date()}")
+            common.log(f"Day split: {dt_start.date()} -> {dt_end.date()}")
             self._commit_log(process, title, url, start_ts, midnight_ts, force_idle)
             self._commit_log(process, title, url, midnight_ts, end_ts, force_idle)
             return
 
         activity_level = "低" if force_idle else self.input_monitor.get_and_reset()
-        
         url_part = f"[URL: {url}]" if url else ""
         log_content = f"<{process}> [活跃度:{activity_level}] {url_part} {title}"
         log_line = f"[{dt_start.strftime('%Y-%m-%d %H:%M:%S')} - {dt_end.strftime('%Y-%m-%d %H:%M:%S')}] {log_content}"
 
         self.log_buffer.append(log_line)
-        print(f"📝 记录: {process} ({int(duration)}s) [{activity_level}]")
+        common.log(f"Record: {process} ({int(duration)}s) [{activity_level}]")
 
         if len(self.log_buffer) >= self.batch_size:
             self.flush_buffer()
 
     def _handle_idle(self):
         idle_duration = self.input_monitor.get_idle_duration()
-        
+
         if not self.is_idle and idle_duration > self.idle_timeout:
             self.is_idle = True
             self.idle_start_time = time.time() - idle_duration
-            print(f"💤 进入空闲状态 (无操作 {int(idle_duration)}s)")
-            
+            common.log(f"Idle start ({int(idle_duration)}s)")
             if self.stable_process:
-                self._commit_log(
-                    self.stable_process, self.stable_title, self.stable_url,
-                    self.stable_start_time, self.idle_start_time
-                )
+                self._commit_log(self.stable_process, self.stable_title, self.stable_url,
+                               self.stable_start_time, self.idle_start_time)
             return True
 
         elif self.is_idle and idle_duration < 5:
-            print(f"⏰ 退出空闲状态")
-            self._commit_log(
-                "idle", "系统空闲", "",
-                self.idle_start_time, time.time(), force_idle=True
-            )
+            common.log("Idle end")
+            self._commit_log("idle", "系统空闲", "", self.idle_start_time, time.time(), force_idle=True)
             self.is_idle = False
             self.stable_start_time = time.time()
             return False
@@ -446,12 +399,9 @@ class SmartTracker:
         return self.is_idle
 
     def run(self):
-        """主运行循环"""
-        logger.info(f"🚀 Tracker 启动 (PID: {os.getpid()})")
-        logger.info(f"📂 工作目录: {os.getcwd()}")
-        logger.info(f"⚙️ 配置: 防抖={self.check_interval}s, 批量={self.batch_size}, 休眠阈值={self.sleep_threshold}s")
+        common.log(f"Tracker started (PID: {os.getpid()})")
+        common.log(f"Config: interval={self.check_interval}s, batch={self.batch_size}")
 
-        # 初始化
         while not self.stable_title:
             t, p, u = self.collector.get_active_window_info()
             if t:
@@ -459,7 +409,7 @@ class SmartTracker:
                 self.stable_process = p
                 self.stable_url = u
                 self.stable_start_time = time.time()
-                print(f"✅ 初始任务: {self.stable_process}")
+                common.log(f"Initial: {self.stable_process}")
             time.sleep(1)
 
         self.last_loop_monotonic = time.monotonic()
@@ -467,25 +417,18 @@ class SmartTracker:
         try:
             while True:
                 time.sleep(1)
-                
-                # 【关键修复】使用 monotonic 时钟计算间隔
+
                 now_monotonic = time.monotonic()
                 loop_gap = now_monotonic - self.last_loop_monotonic
-                
-                # 【修复】只有真正长时间中断才认为是休眠
-                # 正常循环即使慢也不会超过120秒
+
                 if loop_gap > self.sleep_threshold:
-                    print(f"💤 检测到系统休眠 (中断 {int(loop_gap)}s)")
-                    self._commit_log(
-                        self.stable_process, self.stable_title, self.stable_url,
-                        self.stable_start_time, time.time() - loop_gap
-                    )
+                    common.log(f"Sleep detected ({int(loop_gap)}s)")
+                    self._commit_log(self.stable_process, self.stable_title, self.stable_url,
+                                   self.stable_start_time, time.time() - loop_gap)
                     self.input_monitor.reset_counters()
                     t, p, u = self.collector.get_active_window_info()
                     if t:
-                        self.stable_title = t
-                        self.stable_process = p
-                        self.stable_url = u
+                        self.stable_title, self.stable_process, self.stable_url = t, p, u
                     self.stable_start_time = time.time()
                     self.pending_process = None
                     self.is_idle = False
@@ -494,31 +437,26 @@ class SmartTracker:
 
                 self.last_loop_monotonic = now_monotonic
 
-                # 空闲检测
                 if self._handle_idle():
                     continue
 
-                # 获取当前窗口
                 raw_title, raw_process, raw_url = self.collector.get_active_window_info()
                 if not raw_title:
                     continue
 
                 raw_title = raw_title.strip()
 
-                # URL容错
                 if raw_process in self.collector.browser_processes and not raw_url:
                     if raw_process == self.stable_process:
                         raw_url = self.stable_url
                     elif raw_process == self.pending_process:
                         raw_url = self.pending_url
 
-                # 状态机逻辑
                 is_stable = self._is_same_task(self.stable_process, self.stable_url, raw_process, raw_url)
 
                 if is_stable:
                     if self.pending_process:
-                        duration = time.time() - self.pending_start_time
-                        print(f"↩️ 忽略短暂切换: {self.pending_process} ({int(duration)}s)")
+                        common.log(f"Skip short switch: {self.pending_process}")
                         self.pending_process = None
                     self.stable_title = raw_title
                     if raw_url:
@@ -531,13 +469,10 @@ class SmartTracker:
                         self.pending_start_time = time.time()
                     else:
                         if self._is_same_task(self.pending_process, self.pending_url, raw_process, raw_url):
-                            pending_duration = time.time() - self.pending_start_time
-                            if pending_duration > self.check_interval:
-                                self._commit_log(
-                                    self.stable_process, self.stable_title, self.stable_url,
-                                    self.stable_start_time, self.pending_start_time
-                                )
-                                print(f"👉 确认切换: {self.stable_process} -> {self.pending_process}")
+                            if time.time() - self.pending_start_time > self.check_interval:
+                                self._commit_log(self.stable_process, self.stable_title, self.stable_url,
+                                               self.stable_start_time, self.pending_start_time)
+                                common.log(f"Switch: {self.stable_process} -> {self.pending_process}")
                                 self.stable_process = self.pending_process
                                 self.stable_title = self.pending_title
                                 self.stable_url = self.pending_url
@@ -550,29 +485,22 @@ class SmartTracker:
                             self.pending_start_time = time.time()
 
         except KeyboardInterrupt:
-            print("\n🛑 收到退出信号...")
+            common.log("Stopping...")
             if self.stable_process:
-                self._commit_log(
-                    self.stable_process, self.stable_title, self.stable_url,
-                    self.stable_start_time, time.time()
-                )
+                self._commit_log(self.stable_process, self.stable_title, self.stable_url,
+                               self.stable_start_time, time.time())
             self.flush_buffer()
-            logger.info("Tracker 已安全退出")
+            common.log("Tracker stopped")
 
 
-# ==========================================
-# 7. 入口
-# ==========================================
 if __name__ == "__main__":
-    # 【修复】防止重复启动
     import socket
-    lock_socket = None
     try:
         lock_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        lock_socket.bind(('127.0.0.1', 47832))  # 用一个固定端口作为锁
+        lock_socket.bind(('127.0.0.1', 47832))
     except socket.error:
-        print("⚠️ Tracker 已在运行中，退出...")
+        common.log("Tracker already running")
         sys.exit(1)
-    
+
     tracker = SmartTracker()
     tracker.run()

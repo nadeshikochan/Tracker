@@ -6287,3 +6287,1695 @@ RecursionError: maximum recursion depth exceeded
 
 
 
+[2025-12-19 02:42:48] 02:42:48 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\pycharmProjects\\Tracker\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-12-19 02:42:48] 02:42:48 - INFO - Using writeable comtypes cache directory: 'D:\pycharmProjects\Tracker\venv\Lib\site-packages\comtypes\gen'
+
+
+
+
+
+[2025-12-19 02:45:22] 02:45:22 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\pycharmProjects\\Tracker\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-12-19 02:45:22] 02:45:22 - INFO - Using writeable comtypes cache directory: 'D:\pycharmProjects\Tracker\venv\Lib\site-packages\comtypes\gen'
+
+[2025-12-19 02:48:28] 02:48:28 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\pycharmProjects\\Tracker\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-12-19 02:48:28] 02:48:28 - INFO - Using writeable comtypes cache directory: 'D:\pycharmProjects\Tracker\venv\Lib\site-packages\comtypes\gen'
+[2025-12-19 02:48:29] 02:48:29 - INFO - 🚀 Tracker 启动 (PID: 34576)
+[2025-12-19 02:48:29] 02:48:29 - INFO - 📂 工作目录: D:\pycharmProjects\Tracker
+[2025-12-19 02:48:29] 02:48:29 - INFO - ⚙️ 配置: 防抖=30秒, 批量=5条, 休眠阈值=120秒
+[2025-12-19 02:48:29] ✅ 初始任务: pycharm64.exe
+[2025-12-19 02:48:37] ↩️ 忽略短暂切换: lx-music-desktop.exe (2秒)
+[2025-12-19 02:48:40] 
+🛑 收到退出信号...
+[2025-12-19 02:48:40] 📝 记录: pycharm64.exe (11秒) [中]
+[2025-12-19 02:48:40] 02:48:40 - INFO - 🔄 请求AI分析 1 条日志...
+[2025-12-19 02:48:40] 02:48:40 - INFO - ✅ Tracker 已安全退出
+[2025-12-19 02:49:03] 02:49:03 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\pycharmProjects\\Tracker\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-12-19 02:49:03] 02:49:03 - INFO - Using writeable comtypes cache directory: 'D:\pycharmProjects\Tracker\venv\Lib\site-packages\comtypes\gen'
+[2025-12-19 02:49:04] 02:49:04 - INFO - 🚀 Tracker 启动 (PID: 28160)
+[2025-12-19 02:49:04] 02:49:04 - INFO - 📂 工作目录: D:\pycharmProjects\Tracker
+[2025-12-19 02:49:04] 02:49:04 - INFO - ⚙️ 配置: 防抖=30秒, 批量=5条, 休眠阈值=120秒
+[2025-12-19 02:49:14] ✅ 初始任务: msedge.exe
+[2025-12-19 02:50:00] ↩️ 忽略短暂切换: windowsterminal.exe (11秒)
+[2025-12-19 02:50:20] ↩️ 忽略短暂切换: windowsterminal.exe (18秒)
+[2025-12-19 02:51:30] 02:51:30 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\pycharmProjects\\Tracker\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-12-19 02:51:30] 02:51:30 - INFO - Using writeable comtypes cache directory: 'D:\pycharmProjects\Tracker\venv\Lib\site-packages\comtypes\gen'
+
+[2025-12-19 02:52:50] 02:52:50 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\pycharmProjects\\Tracker\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-12-19 02:52:50] 02:52:50 - INFO - Using writeable comtypes cache directory: 'D:\pycharmProjects\Tracker\venv\Lib\site-packages\comtypes\gen'
+
+
+[2025-12-19 02:53:54] 02:53:54 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\pycharmProjects\\Tracker\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-12-19 02:53:54] 02:53:54 - INFO - Using writeable comtypes cache directory: 'D:\pycharmProjects\Tracker\venv\Lib\site-packages\comtypes\gen'
+[2025-12-19 02:53:54] ⚠️ Tracker 已在运行中，退出...
+
+[2025-12-19 02:54:27] 02:54:27 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\pycharmProjects\\Tracker\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-12-19 02:54:27] 02:54:27 - INFO - Using writeable comtypes cache directory: 'D:\pycharmProjects\Tracker\venv\Lib\site-packages\comtypes\gen'
+[2025-12-19 02:54:27] 02:54:27 - INFO - 🚀 Tracker 启动 (PID: 2016)
+[2025-12-19 02:54:27] 02:54:27 - INFO - 📂 工作目录: D:\pycharmProjects\Tracker
+[2025-12-19 02:54:27] 02:54:27 - INFO - ⚙️ 配置: 防抖=30秒, 批量=5条, 休眠阈值=120秒
+[2025-12-19 02:54:27] ✅ 初始任务: windowsterminal.exe
+[2025-12-19 02:54:31] ↩️ 忽略短暂切换: explorer.exe (1秒)
+[2025-12-19 02:54:36] 
+🛑 收到退出信号...
+[2025-12-19 02:54:36] 📝 记录: windowsterminal.exe (8秒) [低]
+[2025-12-19 02:54:36] 02:54:36 - INFO - 🔄 请求AI分析 1 条日志...
+[2025-12-19 02:54:36] 02:54:36 - INFO - ✅ Tracker 已安全退出
+02:59:06 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\pycharmProjects\\Tracker\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+02:59:06 - INFO - Using writeable comtypes cache directory: 'D:\pycharmProjects\Tracker\venv\Lib\site-packages\comtypes\gen'
+02:59:06 - INFO - 🚀 Tracker 启动 (PID: 22836)
+[2025-12-19 02:59:06] --- Logging error ---
+[2025-12-19 02:59:06] Traceback (most recent call last):
+[2025-12-19 02:59:06]   File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\logging\__init__.py", line 1153, in emit
+    stream.write(msg + self.terminator)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+[2025-12-19 02:59:06] UnicodeEncodeError: 'gbk' codec can't encode character '\U0001f680' in position 18: illegal multibyte sequence
+[2025-12-19 02:59:06] Call stack:
+[2025-12-19 02:59:06]   File "D:\pycharmProjects\Tracker\tracker.py", line 560, in <module>
+    tracker.run()
+[2025-12-19 02:59:06]   File "D:\pycharmProjects\Tracker\tracker.py", line 450, in run
+    logger.info(f"🚀 Tracker 启动 (PID: {os.getpid()})")
+[2025-12-19 02:59:06] Message: '🚀 Tracker 启动 (PID: 22836)'
+Arguments: ()
+02:59:06 - INFO - 📂 工作目录: D:\pycharmProjects\Tracker
+[2025-12-19 02:59:06] --- Logging error ---
+[2025-12-19 02:59:06] Traceback (most recent call last):
+[2025-12-19 02:59:06]   File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\logging\__init__.py", line 1153, in emit
+    stream.write(msg + self.terminator)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+[2025-12-19 02:59:06] UnicodeEncodeError: 'gbk' codec can't encode character '\U0001f4c2' in position 18: illegal multibyte sequence
+[2025-12-19 02:59:06] Call stack:
+[2025-12-19 02:59:06]   File "D:\pycharmProjects\Tracker\tracker.py", line 560, in <module>
+    tracker.run()
+[2025-12-19 02:59:06]   File "D:\pycharmProjects\Tracker\tracker.py", line 451, in run
+    logger.info(f"📂 工作目录: {os.getcwd()}")
+[2025-12-19 02:59:06] Message: '📂 工作目录: D:\\pycharmProjects\\Tracker'
+Arguments: ()
+02:59:06 - INFO - ⚙️ 配置: 防抖=30秒, 批量=5条, 休眠阈值=120秒
+[2025-12-19 02:59:06] --- Logging error ---
+[2025-12-19 02:59:06] Traceback (most recent call last):
+[2025-12-19 02:59:06]   File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\logging\__init__.py", line 1153, in emit
+    stream.write(msg + self.terminator)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+[2025-12-19 02:59:06] UnicodeEncodeError: 'gbk' codec can't encode character '\u2699' in position 18: illegal multibyte sequence
+[2025-12-19 02:59:06] Call stack:
+[2025-12-19 02:59:06]   File "D:\pycharmProjects\Tracker\tracker.py", line 560, in <module>
+    tracker.run()
+[2025-12-19 02:59:06]   File "D:\pycharmProjects\Tracker\tracker.py", line 452, in run
+    logger.info(f"⚙️ 配置: 防抖={self.check_interval}秒, 批量={self.batch_size}条, 休眠阈值={self.sleep_threshold}秒")
+[2025-12-19 02:59:06] Message: '⚙️ 配置: 防抖=30秒, 批量=5条, 休眠阈值=120秒'
+Arguments: ()
+[2025-12-19 02:59:06] ✅ 初始任务: windowsterminal.exe
+[2025-12-19 02:59:59] 📝 记录: windowsterminal.exe (19秒) [中]
+[2025-12-19 02:59:59] 👉 确认切换: windowsterminal.exe -> msedge.exe
+[2025-12-19 03:00:13] ↩️ 忽略短暂切换: mintty.exe (13秒)
+03:00:48 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\pycharmProjects\\Tracker\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+03:00:48 - INFO - Using writeable comtypes cache directory: 'D:\pycharmProjects\Tracker\venv\Lib\site-packages\comtypes\gen'
+[2025-12-19 03:00:48] ⚠️ Tracker 已在运行中，退出...
+03:00:56 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\pycharmProjects\\Tracker\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+03:00:56 - INFO - Using writeable comtypes cache directory: 'D:\pycharmProjects\Tracker\venv\Lib\site-packages\comtypes\gen'
+03:00:56 - INFO - 🚀 Tracker 启动 (PID: 7288)
+03:00:56 - INFO - 📂 工作目录: D:\pycharmProjects\Tracker
+03:00:56 - INFO - ⚙️ 配置: 防抖=30秒, 批量=5条, 休眠阈值=120秒
+[2025-12-19 03:00:56] ✅ 初始任务: pycharm64.exe
+[2025-12-19 03:01:04] ↩️ 忽略短暂切换: qq.exe (1秒)
+[2025-12-19 03:01:08] ↩️ 忽略短暂切换: explorer.exe (1秒)
+[2025-12-19 03:01:09] 
+🛑 收到退出信号...
+[2025-12-19 03:01:09] 📝 记录: pycharm64.exe (12秒) [中]
+03:01:09 - INFO - 🔄 请求AI分析 1 条日志...
+03:01:09 - INFO - ✅ Tracker 已安全退出
+03:01:34 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\pycharmProjects\\Tracker\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+03:01:34 - INFO - Using writeable comtypes cache directory: 'D:\pycharmProjects\Tracker\venv\Lib\site-packages\comtypes\gen'
+03:01:35 - INFO - 🚀 Tracker 启动 (PID: 32688)
+[2025-12-19 03:01:35] --- Logging error ---
+[2025-12-19 03:01:35] Traceback (most recent call last):
+[2025-12-19 03:01:35]   File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\logging\__init__.py", line 1153, in emit
+    stream.write(msg + self.terminator)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+[2025-12-19 03:01:35] UnicodeEncodeError: 'gbk' codec can't encode character '\U0001f680' in position 18: illegal multibyte sequence
+[2025-12-19 03:01:35] Call stack:
+[2025-12-19 03:01:35]   File "D:\pycharmProjects\Tracker\tracker.py", line 560, in <module>
+    tracker.run()
+[2025-12-19 03:01:35]   File "D:\pycharmProjects\Tracker\tracker.py", line 450, in run
+    logger.info(f"🚀 Tracker 启动 (PID: {os.getpid()})")
+[2025-12-19 03:01:35] Message: '🚀 Tracker 启动 (PID: 32688)'
+Arguments: ()
+03:01:35 - INFO - 📂 工作目录: D:\pycharmProjects\Tracker
+[2025-12-19 03:01:35] --- Logging error ---
+[2025-12-19 03:01:35] Traceback (most recent call last):
+[2025-12-19 03:01:35]   File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\logging\__init__.py", line 1153, in emit
+    stream.write(msg + self.terminator)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+[2025-12-19 03:01:35] UnicodeEncodeError: 'gbk' codec can't encode character '\U0001f4c2' in position 18: illegal multibyte sequence
+[2025-12-19 03:01:35] Call stack:
+[2025-12-19 03:01:35]   File "D:\pycharmProjects\Tracker\tracker.py", line 560, in <module>
+    tracker.run()
+[2025-12-19 03:01:35]   File "D:\pycharmProjects\Tracker\tracker.py", line 451, in run
+    logger.info(f"📂 工作目录: {os.getcwd()}")
+[2025-12-19 03:01:35] Message: '📂 工作目录: D:\\pycharmProjects\\Tracker'
+Arguments: ()
+03:01:35 - INFO - ⚙️ 配置: 防抖=30秒, 批量=5条, 休眠阈值=120秒
+[2025-12-19 03:01:35] --- Logging error ---
+[2025-12-19 03:01:35] Traceback (most recent call last):
+[2025-12-19 03:01:35]   File "C:\Users\lenovo\AppData\Local\Programs\Python\Python313\Lib\logging\__init__.py", line 1153, in emit
+    stream.write(msg + self.terminator)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+[2025-12-19 03:01:35] UnicodeEncodeError: 'gbk' codec can't encode character '\u2699' in position 18: illegal multibyte sequence
+[2025-12-19 03:01:35] Call stack:
+[2025-12-19 03:01:35]   File "D:\pycharmProjects\Tracker\tracker.py", line 560, in <module>
+    tracker.run()
+[2025-12-19 03:01:35]   File "D:\pycharmProjects\Tracker\tracker.py", line 452, in run
+    logger.info(f"⚙️ 配置: 防抖={self.check_interval}秒, 批量={self.batch_size}条, 休眠阈值={self.sleep_threshold}秒")
+[2025-12-19 03:01:35] Message: '⚙️ 配置: 防抖=30秒, 批量=5条, 休眠阈值=120秒'
+Arguments: ()
+[2025-12-19 03:01:35] ✅ 初始任务: onedrive.exe
+[2025-12-19 03:02:27] 📝 记录: onedrive.exe (12秒) [高]
+[2025-12-19 03:02:27] 👉 确认切换: onedrive.exe -> msedge.exe
+[2025-12-19 03:03:59] ↩️ 忽略短暂切换: explorer.exe (14秒)
+[2025-12-19 03:04:35] 📝 记录: msedge.exe (138秒) [中]
+[2025-12-19 03:04:35] 👉 确认切换: msedge.exe -> chrome.exe
+03:05:01 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\pycharmProjects\\Tracker\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+03:05:01 - INFO - Using writeable comtypes cache directory: 'D:\pycharmProjects\Tracker\venv\Lib\site-packages\comtypes\gen'
+[2025-12-19 03:05:01] ⚠️ Tracker 已在运行中，退出...
+03:05:22 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\pycharmProjects\\Tracker\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+03:05:22 - INFO - Using writeable comtypes cache directory: 'D:\pycharmProjects\Tracker\venv\Lib\site-packages\comtypes\gen'
+03:05:22 - INFO - 🚀 Tracker 启动 (PID: 18496)
+03:05:22 - INFO - 📂 工作目录: D:\pycharmProjects\Tracker
+03:05:22 - INFO - ⚙️ 配置: 防抖=30秒, 批量=5条, 休眠阈值=120秒
+[2025-12-19 03:05:22] ✅ 初始任务: explorer.exe
+[2025-12-19 03:06:45] 📝 记录: explorer.exe (49秒) [中]
+[2025-12-19 03:06:45] 👉 确认切换: explorer.exe -> msedge.exe
+[2025-12-19 03:12:40] Tracker started (PID: 29864)
+[2025-12-19 03:12:40] Config: interval=30s, batch=5
+[2025-12-19 03:12:40] Initial: windowsterminal.exe
+[2025-12-19 03:13:07] Skip short switch: explorer.exe
+[2025-12-19 03:13:35] Skip short switch: msedge.exe
+[2025-12-19 03:15:11] Record: windowsterminal.exe (117s) [高]
+[2025-12-19 03:15:11] Switch: windowsterminal.exe -> msedge.exe
+[2025-12-19 03:19:18] Tracker started (PID: 38148)
+[2025-12-19 03:19:18] Config: interval=30s, batch=5
+[2025-12-19 03:19:18] Initial: windowsterminal.exe
+[2025-12-19 03:19:45] Skip short switch: explorer.exe
+[2025-12-19 03:20:38] Skip short switch: lx-music-desktop.exe
+[2025-12-19 03:21:11] Record: windowsterminal.exe (83s) [中]
+[2025-12-19 03:21:11] Switch: windowsterminal.exe -> lx-music-desktop.exe
+[2025-12-19 03:21:46] Record: lx-music-desktop.exe (35s) [低]
+[2025-12-19 03:21:46] Switch: lx-music-desktop.exe -> windowsterminal.exe
+[2025-12-19 03:22:34] Record: windowsterminal.exe (45s) [低]
+[2025-12-19 03:22:34] Switch: windowsterminal.exe -> msedge.exe
+[2025-12-19 03:22:57] Skip short switch: windowsterminal.exe
+[2025-12-19 03:23:30] Skip short switch: windowsterminal.exe
+[2025-12-19 03:24:28] Skip short switch: windowsterminal.exe
+[2025-12-19 03:24:59] Record: msedge.exe (147s) [高]
+[2025-12-19 03:24:59] Switch: msedge.exe -> windowsterminal.exe
+[2025-12-19 03:25:38] Skip short switch: msedge.exe
+[2025-12-19 03:26:23] Record: windowsterminal.exe (81s) [中]
+[2025-12-19 03:26:23] Switch: windowsterminal.exe -> msedge.exe
+[2025-12-19 03:26:23] AI request: 5 logs...
+[2025-12-19 03:26:32] AI done: 5 records -> 2025-12-19.csv
+[2025-12-19 03:29:11] Skip short switch: windowsterminal.exe
+[2025-12-19 03:29:23] Skip short switch: windowsterminal.exe
+[2025-12-19 03:29:36] Skip short switch: windowsterminal.exe
+[2025-12-19 03:30:29] Record: msedge.exe (248s) [中]
+[2025-12-19 03:30:29] Switch: msedge.exe -> lx-music-desktop.exe
+[2025-12-19 13:06:35] Sleep detected (34392s)
+[2025-12-19 13:06:35] Record: lx-music-desktop.exe (203s) [中]
+[2025-12-19 13:06:36] Idle start (34427s)
+[2025-12-19 13:17:32] Idle end
+[2025-12-19 13:17:32] Record: idle (35083s) [低]
+[2025-12-19 13:17:45] Skip short switch: steamwebhelper.exe
+[2025-12-19 13:17:50] Skip short switch: clash-verge.exe
+[2025-12-19 13:18:34] Record: lx-music-desktop.exe (29s) [中]
+[2025-12-19 13:18:34] Switch: lx-music-desktop.exe -> msedge.exe
+[2025-12-19 13:21:45] Skip short switch: shellhost.exe
+[2025-12-19 13:28:02] Idle start (302s)
+[2025-12-19 13:28:02] Record: msedge.exe (298s) [中]
+[2025-12-19 13:28:02] AI request: 5 logs...
+[2025-12-19 13:28:09] AI done: 5 records -> 2025-12-19.csv
+[2025-12-19 13:29:33] Idle end
+[2025-12-19 13:29:33] Record: idle (393s) [低]
+[2025-12-19 13:30:12] Skip short switch: explorer.exe
+[2025-12-19 13:30:26] Skip short switch: steamwebhelper.exe
+[2025-12-19 13:32:43] Skip short switch: qq.exe
+[2025-12-19 13:33:17] Record: msedge.exe (193s) [高]
+[2025-12-19 13:33:17] Switch: msedge.exe -> explorer.exe
+[2025-12-19 13:34:39] Skip short switch: msedge.exe
+[2025-12-19 13:37:07] Record: explorer.exe (227s) [高]
+[2025-12-19 13:37:07] Switch: explorer.exe -> msedge.exe
+[2025-12-19 13:38:48] Skip short switch: clash-verge.exe
+[2025-12-19 13:39:39] Record: msedge.exe (155s) [高]
+[2025-12-19 13:39:39] Switch: msedge.exe -> explorer.exe
+[2025-12-19 13:40:25] Record: explorer.exe (46s) [中]
+[2025-12-19 13:40:25] Switch: explorer.exe -> qq.exe
+[2025-12-19 13:40:25] AI request: 5 logs...
+[2025-12-19 13:40:32] AI done: 5 records -> 2025-12-19.csv
+[2025-12-19 13:40:58] Record: qq.exe (33s) [中]
+[2025-12-19 13:40:58] Switch: qq.exe -> explorer.exe
+[2025-12-19 13:41:25] Skip short switch: pycharm64.exe
+[2025-12-19 13:42:02] Skip short switch: mintty.exe
+[2025-12-19 13:44:02] Record: explorer.exe (183s) [高]
+[2025-12-19 13:44:02] Switch: explorer.exe -> wps.exe
+[2025-12-19 13:44:23] Skip short switch: explorer.exe
+[2025-12-19 13:44:37] Skip short switch: explorer.exe
+[2025-12-19 13:45:42] Record: wps.exe (100s) [高]
+[2025-12-19 13:45:42] Switch: wps.exe -> explorer.exe
+[2025-12-19 13:46:48] Skip short switch: typora.exe
+[2025-12-19 13:46:53] Skip short switch: typora.exe
+[2025-12-19 13:47:31] Skip short switch: qq.exe
+[2025-12-19 13:47:58] Skip short switch: qq.exe
+[2025-12-19 13:48:35] Record: explorer.exe (173s) [高]
+[2025-12-19 13:48:35] Switch: explorer.exe -> typora.exe
+[2025-12-19 13:50:30] Record: typora.exe (115s) [高]
+[2025-12-19 13:50:30] Switch: typora.exe -> explorer.exe
+[2025-12-19 13:50:30] AI request: 5 logs...
+[2025-12-19 13:50:36] AI done: 5 records -> 2025-12-19.csv
+[2025-12-19 13:52:17] Skip short switch: qq.exe
+[2025-12-19 13:52:20] Skip short switch: mintty.exe
+[2025-12-19 13:53:21] Skip short switch: wps.exe
+[2025-12-19 13:54:05] Skip short switch: wps.exe
+[2025-12-19 13:54:10] Skip short switch: wps.exe
+[2025-12-19 13:54:14] Skip short switch: wps.exe
+[2025-12-19 13:54:46] Record: explorer.exe (256s) [高]
+[2025-12-19 13:54:46] Switch: explorer.exe -> wps.exe
+[2025-12-19 13:55:20] Record: wps.exe (34s) [中]
+[2025-12-19 13:55:20] Switch: wps.exe -> snippingtool.exe
+[2025-12-19 13:55:30] Skip short switch: wps.exe
+[2025-12-19 13:55:48] Skip short switch: wps.exe
+[2025-12-19 13:56:19] Record: snippingtool.exe (59s) [中]
+[2025-12-19 13:56:19] Switch: snippingtool.exe -> wps.exe
+[2025-12-19 13:57:22] Record: wps.exe (63s) [中]
+[2025-12-19 13:57:22] Switch: wps.exe -> snippingtool.exe
+[2025-12-19 13:57:53] Skip short switch: shellhost.exe
+[2025-12-19 13:58:09] Skip short switch: wpp.exe
+[2025-12-19 13:58:15] Skip short switch: wpp.exe
+[2025-12-19 13:58:22] Skip short switch: wpp.exe
+[2025-12-19 13:58:48] Skip short switch: wpp.exe
+[2025-12-19 13:59:09] Skip short switch: wpp.exe
+[2025-12-19 13:59:13] Skip short switch: wpp.exe
+[2025-12-19 14:00:08] Skip short switch: wpp.exe
+[2025-12-19 14:00:14] Skip short switch: wpp.exe
+[2025-12-19 14:01:03] Skip short switch: wpp.exe
+[2025-12-19 14:01:19] Skip short switch: wpp.exe
+[2025-12-19 14:01:45] Skip short switch: wpp.exe
+[2025-12-19 14:02:02] Skip short switch: shellhost.exe
+[2025-12-19 14:02:11] Skip short switch: shellhost.exe
+[2025-12-19 14:02:40] Skip short switch: wpp.exe
+[2025-12-19 14:04:03] Record: snippingtool.exe (401s) [高]
+[2025-12-19 14:04:03] AI request: 5 logs...
+[2025-12-19 14:04:03] Switch: snippingtool.exe -> qq.exe
+[2025-12-19 14:04:13] AI done: 5 records -> 2025-12-19.csv
+[2025-12-19 14:05:28] Record: qq.exe (85s) [中]
+[2025-12-19 14:05:28] Switch: qq.exe -> wpp.exe
+[2025-12-19 14:09:51] Record: wpp.exe (263s) [中]
+[2025-12-19 14:09:51] Switch: wpp.exe -> snippingtool.exe
+[2025-12-19 14:10:22] Record: snippingtool.exe (31s) [低]
+[2025-12-19 14:10:22] Switch: snippingtool.exe -> wpp.exe
+[2025-12-19 14:10:57] Skip short switch: wps.exe
+[2025-12-19 14:11:25] Skip short switch: snippingtool.exe
+[2025-12-19 14:17:24] Record: wpp.exe (422s) [高]
+[2025-12-19 14:17:24] Switch: wpp.exe -> applicationframehost.exe
+[2025-12-19 14:20:13] Skip short switch: wps.exe
+[2025-12-19 14:21:09] Record: applicationframehost.exe (224s) [中]
+[2025-12-19 14:21:09] Switch: applicationframehost.exe -> explorer.exe
+[2025-12-19 14:21:09] AI request: 5 logs...
+[2025-12-19 14:21:17] AI done: 5 records -> 2025-12-19.csv
+[2025-12-19 14:26:10] Idle start (300s)
+[2025-12-19 14:26:10] Record: explorer.exe (30s) [低]
+[2025-12-19 14:34:59] Idle end
+[2025-12-19 14:34:59] Record: idle (829s) [低]
+[2025-12-19 14:35:10] Skip short switch: wps.exe
+[2025-12-19 14:35:26] Skip short switch: wps.exe
+[2025-12-19 14:35:43] Skip short switch: wps.exe
+[2025-12-19 14:35:57] Skip short switch: wps.exe
+[2025-12-19 14:36:11] Skip short switch: wps.exe
+[2025-12-19 14:36:20] Skip short switch: wps.exe
+[2025-12-19 14:38:33] Record: explorer.exe (181s) [高]
+[2025-12-19 14:38:33] Switch: explorer.exe -> msedge.exe
+[2025-12-19 14:44:43] Skip short switch: qq.exe
+[2025-12-19 14:46:27] Skip short switch: explorer.exe
+[2025-12-19 14:47:51] Skip short switch: clash-verge.exe
+[2025-12-19 14:50:12] Record: msedge.exe (702s) [高]
+[2025-12-19 14:50:12] Switch: msedge.exe -> explorer.exe
+[2025-12-19 14:51:07] Skip short switch: desktopmgr64.exe
+[2025-12-19 14:51:52] Skip short switch: msedge.exe
+[2025-12-19 14:52:13] Skip short switch: msedge.exe
+[2025-12-19 14:52:29] Skip short switch: update.exe
+[2025-12-19 14:52:51] Tracker started (PID: 20700)
+[2025-12-19 14:52:51] Config: interval=30s, batch=5
+[2025-12-19 14:52:51] Initial: enjoy git.exe
+[2025-12-19 14:53:01] Skip short switch: explorer.exe
+[2025-12-19 14:55:25] Record: enjoy git.exe (121s) [高]
+[2025-12-19 14:55:25] Switch: enjoy git.exe -> msedge.exe
+[2025-12-19 14:55:55] Skip short switch: windowsterminal.exe
+[2025-12-19 14:56:48] Record: msedge.exe (86s) [中]
+[2025-12-19 14:56:48] Switch: msedge.exe -> enjoy git.exe
+[2025-12-19 15:00:14] Record: enjoy git.exe (205s) [高]
+[2025-12-19 15:00:14] Switch: enjoy git.exe -> chrome.exe
+[2025-12-19 15:01:10] Skip short switch: pycharm64.exe
+[2025-12-19 15:01:19] Skip short switch: pycharm64.exe
+[2025-12-19 15:01:31] Skip short switch: pycharm64.exe
+[2025-12-19 15:01:42] Tracker started (PID: 27748)
+[2025-12-19 15:01:42] Config: interval=30s, batch=5
+[2025-12-19 15:01:42] Initial: windowsterminal.exe
+[2025-12-19 15:02:15] Record: windowsterminal.exe (3s) [高]
+[2025-12-19 15:02:15] Switch: windowsterminal.exe -> obsidian.exe
+[2025-12-19 15:03:56] Record: obsidian.exe (97s) [高]
+[2025-12-19 15:03:56] Switch: obsidian.exe -> msedge.exe
+[2025-12-19 15:05:03] Record: msedge.exe (70s) [中]
+[2025-12-19 15:05:03] Switch: msedge.exe -> pycharm64.exe
+[2025-12-19 15:05:28] Skip short switch: notepad.exe
+[2025-12-19 15:08:28] Record: pycharm64.exe (202s) [高]
+[2025-12-19 15:08:28] Switch: pycharm64.exe -> msedge.exe
+[2025-12-19 15:10:29] Skip short switch: typora.exe
+[2025-12-19 15:10:57] Skip short switch: typora.exe
+[2025-12-19 15:11:34] Skip short switch: typora.exe
+[2025-12-19 15:12:49] Record: msedge.exe (263s) [高]
+[2025-12-19 15:12:49] AI request: 5 logs...
+[2025-12-19 15:12:49] Switch: msedge.exe -> explorer.exe
+[2025-12-19 15:12:54] AI done: 5 records -> 2025-12-19.csv
+[2025-12-19 15:19:38] Record: explorer.exe (409s) [中]
+[2025-12-19 15:19:38] Switch: explorer.exe -> desktopmgr64.exe
+[2025-12-19 15:24:09] Idle start (300s)
+[2025-12-19 15:47:52] Idle end
+[2025-12-19 15:47:52] Record: idle (1723s) [低]
+[2025-12-19 15:48:22] Switch: desktopmgr64.exe -> lx-music-desktop.exe
+[2025-12-19 15:54:17] Idle start (300s)
+[2025-12-19 15:54:17] Record: lx-music-desktop.exe (84s) [低]
+[2025-12-19 16:04:09] Idle end
+[2025-12-19 16:04:09] Record: idle (892s) [低]
+[2025-12-19 16:04:14] Skip short switch: steamwebhelper.exe
+[2025-12-19 16:06:11] Record: lx-music-desktop.exe (92s) [中]
+[2025-12-19 16:06:11] AI request: 5 logs...
+[2025-12-19 16:06:11] Switch: lx-music-desktop.exe -> scum.exe
+[2025-12-19 16:06:19] AI done: 5 records -> 2025-12-19.csv
+[2025-12-19 16:23:41] Skip short switch: searchhost.exe
+[2025-12-19 16:24:12] Skip short switch: taskmgr.exe
+[2025-12-19 16:24:18] Skip short switch: searchhost.exe
+[2025-12-19 16:24:31] Skip short switch: legionzone.exe
+[2025-12-19 16:24:43] Skip short switch: legionzone.exe
+[2025-12-19 16:24:55] Skip short switch: taskmgr.exe
+[2025-12-19 17:00:19] Record: scum.exe (3247s) [高]
+[2025-12-19 17:00:19] Switch: scum.exe -> desktopmgr64.exe
+[2025-12-19 17:01:29] Skip short switch: lx-music-desktop.exe
+[2025-12-19 17:01:35] Skip short switch: legionzone.exe
+[2025-12-19 17:01:38] Skip short switch: qq.exe
+[2025-12-19 17:02:57] Skip short switch: msedge.exe
+[2025-12-19 17:07:52] Idle start (300s)
+[2025-12-19 17:07:52] Record: desktopmgr64.exe (182s) [中]
+[2025-12-19 19:02:53] Idle end
+[2025-12-19 19:02:53] Record: idle (7202s) [低]
+[2025-12-19 19:03:24] Switch: desktopmgr64.exe -> qq.exe
+[2025-12-19 19:04:03] Record: qq.exe (39s) [中]
+[2025-12-19 19:04:03] Switch: qq.exe -> lx-music-desktop.exe
+[2025-12-19 19:07:33] Record: lx-music-desktop.exe (209s) [中]
+[2025-12-19 19:07:33] AI request: 5 logs...
+[2025-12-19 19:07:33] Switch: lx-music-desktop.exe -> desktopmgr64.exe
+[2025-12-19 19:07:37] AI done: 5 records -> 2025-12-19.csv
+[2025-12-19 19:08:46] Record: desktopmgr64.exe (70s) [中]
+[2025-12-19 19:08:46] Switch: desktopmgr64.exe -> msedge.exe
+[2025-12-19 19:09:30] Record: msedge.exe (47s) [中]
+[2025-12-19 19:09:30] Switch: msedge.exe -> explorer.exe
+[2025-12-19 19:14:04] Record: explorer.exe (273s) [高]
+[2025-12-19 19:14:04] Switch: explorer.exe -> chrome.exe
+[2025-12-19 19:18:03] Record: chrome.exe (236s) [高]
+[2025-12-19 19:18:03] Switch: chrome.exe -> msedge.exe
+[2025-12-19 19:19:12] Skip short switch: obsidian.exe
+[2025-12-19 19:19:54] Record: msedge.exe (113s) [中]
+[2025-12-19 19:19:54] AI request: 5 logs...
+[2025-12-19 19:19:54] Switch: msedge.exe -> obsidian.exe
+[2025-12-19 19:19:59] AI done: 5 records -> 2025-12-19.csv
+[2025-12-19 19:20:44] Record: obsidian.exe (47s) [中]
+[2025-12-19 19:20:44] Switch: obsidian.exe -> msedge.exe
+[2025-12-19 19:21:15] Record: msedge.exe (34s) [中]
+[2025-12-19 19:21:15] Switch: msedge.exe -> obsidian.exe
+[2025-12-19 19:25:37] Skip short switch: explorer.exe
+[2025-12-19 19:26:17] Record: obsidian.exe (302s) [高]
+[2025-12-19 19:26:17] Switch: obsidian.exe -> desktopmgr64.exe
+[2025-12-19 19:30:47] Idle start (300s)
+[2025-12-19 19:38:48] Idle end
+[2025-12-19 19:38:48] Record: idle (781s) [低]
+[2025-12-19 19:39:18] Switch: desktopmgr64.exe -> qq.exe
+[2025-12-19 19:39:51] Record: qq.exe (33s) [中]
+[2025-12-19 19:39:51] Switch: qq.exe -> explorer.exe
+[2025-12-19 19:39:51] AI request: 5 logs...
+[2025-12-19 19:39:55] AI done: 5 records -> 2025-12-19.csv
+[2025-12-19 19:40:26] Skip short switch: qq.exe
+[2025-12-19 19:46:07] Record: explorer.exe (373s) [中]
+[2025-12-19 19:46:07] Switch: explorer.exe -> msedge.exe
+[2025-12-19 19:53:31] Skip short switch: qq.exe
+[2025-12-19 19:53:44] Skip short switch: qq.exe
+[2025-12-19 20:20:48] Skip short switch: explorer.exe
+[2025-12-19 20:23:45] Record: msedge.exe (2261s) [高]
+[2025-12-19 20:23:45] Switch: msedge.exe -> explorer.exe
+[2025-12-19 20:24:08] Skip short switch: clipchamp.exe
+[2025-12-19 20:24:24] Skip short switch: msedge.exe
+[2025-12-19 20:24:43] Skip short switch: desktopmgr64.exe
+[2025-12-19 20:24:55] Skip short switch: msedge.exe
+[2025-12-19 20:25:07] Skip short switch: videoconvertcompress.exe
+[2025-12-19 20:25:23] Skip short switch: formatfactory.exe
+[2025-12-19 20:26:07] Record: explorer.exe (138s) [高]
+[2025-12-19 20:26:07] Switch: explorer.exe -> msedge.exe
+[2025-12-19 20:40:04] Skip short switch: taskmgr.exe
+[2025-12-19 20:43:17] Skip short switch: taskmgr.exe
+[2025-12-19 20:46:03] Record: msedge.exe (1199s) [高]
+[2025-12-19 20:46:03] Switch: msedge.exe -> explorer.exe
+[2025-12-19 20:47:25] Record: explorer.exe (82s) [高]
+[2025-12-19 20:47:25] AI request: 5 logs...
+[2025-12-19 20:47:25] Switch: explorer.exe -> qq.exe
+[2025-12-19 20:47:36] AI done: 5 records -> 2025-12-19.csv
+[2025-12-19 20:47:58] Skip short switch: explorer.exe
+[2025-12-19 20:48:42] Skip short switch: explorer.exe
+[2025-12-19 20:50:49] Record: qq.exe (200s) [高]
+[2025-12-19 20:50:49] Switch: qq.exe -> msedge.exe
+[2025-12-19 20:57:17] Idle start (306s)
+[2025-12-19 20:57:17] Record: msedge.exe (114s) [低]
+[2025-12-19 20:58:00] Idle end
+[2025-12-19 20:58:00] Record: idle (349s) [低]
+[2025-12-19 21:03:20] Idle start (301s)
+[2025-12-19 21:03:20] Record: msedge.exe (18s) [中]
+[2025-12-19 21:26:32] Idle end
+[2025-12-19 21:26:32] Record: idle (1693s) [低]
+[2025-12-19 21:26:32] AI request: 5 logs...
+[2025-12-19 21:26:36] AI done: 5 records -> 2025-12-19.csv
+[2025-12-19 21:29:36] Record: msedge.exe (154s) [中]
+[2025-12-19 21:29:36] Switch: msedge.exe -> desktopmgr64.exe
+[2025-12-19 21:34:02] Idle start (300s)
+[2025-12-19 21:56:05] Idle end
+[2025-12-19 21:56:05] Record: idle (1624s) [低]
+[2025-12-19 21:56:07] Skip short switch: lx-music-desktop.exe
+[2025-12-19 21:56:13] Skip short switch: wscript.exe
+[2025-12-19 21:57:23] Record: desktopmgr64.exe (44s) [中]
+[2025-12-19 21:57:23] Switch: desktopmgr64.exe -> msedge.exe
+[2025-12-19 21:57:48] Skip short switch: taskmgr.exe
+[2025-12-19 21:59:32] Record: msedge.exe (132s) [中]
+[2025-12-19 21:59:32] Switch: msedge.exe -> desktopmgr64.exe
+[2025-12-19 22:04:03] Idle start (300s)
+[2025-12-20 00:50:14] Idle end
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:14] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:15] Day split: 2025-12-19 -> 2025-12-20
+[2025-12-20 00:50:26] Tracker started (PID: 27444)
+[2025-12-20 00:50:26] Config: interval=30s, batch=5
+[2025-12-20 00:50:31] Initial: chrome.exe
+[2025-12-20 00:50:48] Skip short switch: clash-verge.exe
+[2025-12-20 00:51:01] Skip short switch: clash-verge.exe
+[2025-12-20 00:55:25] Skip short switch: msedge.exe
+[2025-12-20 00:56:52] Skip short switch: taskmgr.exe
+[2025-12-20 00:57:54] Skip short switch: msedge.exe
+[2025-12-20 00:58:20] Skip short switch: msedge.exe
+[2025-12-20 00:59:54] Skip short switch: msedge.exe
+[2025-12-20 01:01:38] Record: chrome.exe (634s) [高]
+[2025-12-20 01:01:38] Switch: chrome.exe -> msedge.exe
+[2025-12-20 01:02:44] Skip short switch: shellhost.exe
+[2025-12-20 01:04:16] Record: msedge.exe (160s) [中]
+[2025-12-20 01:04:16] Switch: msedge.exe -> chrome.exe
+[2025-12-20 01:07:54] Record: chrome.exe (218s) [高]
+[2025-12-20 01:07:54] Switch: chrome.exe -> desktopmgr64.exe
+[2025-12-20 01:12:26] Idle start (300s)
+[2025-12-20 12:19:59] Sleep detected (36719s)
+[2025-12-20 12:19:59] Record: desktopmgr64.exe (3635s) [低]
+[2025-12-20 12:20:00] Idle start (40355s)
+[2025-12-20 12:20:09] Idle end
+[2025-12-20 12:20:09] Record: idle (40364s) [低]
+[2025-12-20 12:20:09] AI request: 5 logs...
+[2025-12-20 12:20:31] AI done: 4 records -> 2025-12-20.csv
+[2025-12-20 12:21:03] Record: desktopmgr64.exe (20s) [中]
+[2025-12-20 12:21:03] Switch: desktopmgr64.exe -> msedge.exe
+[2025-12-20 12:21:52] Skip short switch: obsidian.exe
+[2025-12-20 12:22:23] Record: msedge.exe (83s) [中]
+[2025-12-20 12:22:23] Switch: msedge.exe -> desktopmgr64.exe
+[2025-12-20 12:26:51] Idle start (300s)
+[2025-12-20 13:00:29] Idle end
+[2025-12-20 13:00:29] Record: idle (2318s) [低]
+[2025-12-20 13:01:03] Skip short switch: explorer.exe
+[2025-12-20 13:01:28] Skip short switch: lx-music-desktop.exe
+[2025-12-20 13:02:24] Record: desktopmgr64.exe (85s) [中]
+[2025-12-20 13:02:24] Switch: desktopmgr64.exe -> obsidian.exe
+[2025-12-20 13:03:43] Record: obsidian.exe (79s) [高]
+[2025-12-20 13:03:43] Switch: obsidian.exe -> chrome.exe
+[2025-12-20 13:03:43] AI request: 5 logs...
+[2025-12-20 13:03:47] AI done: 5 records -> 2025-12-20.csv
+[2025-12-20 13:04:49] Skip short switch: lx-music-desktop.exe
+[2025-12-20 13:05:54] Skip short switch: obsidian.exe
+[2025-12-20 13:08:24] Skip short switch: msedge.exe
+[2025-12-20 13:14:38] Record: chrome.exe (655s) [高]
+[2025-12-20 13:14:38] Switch: chrome.exe -> lx-music-desktop.exe
+[2025-12-20 13:18:28] Skip short switch: quark.exe
+[2025-12-20 13:21:02] Skip short switch: explorer.exe
+[2025-12-20 13:22:05] Record: lx-music-desktop.exe (446s) [高]
+[2025-12-20 13:22:05] Switch: lx-music-desktop.exe -> explorer.exe
+[2025-12-20 13:24:30] Record: explorer.exe (145s) [中]
+[2025-12-20 13:24:30] Switch: explorer.exe -> wps.exe
+[2025-12-20 13:24:49] Skip short switch: explorer.exe
+[2025-12-20 13:28:13] Record: wps.exe (223s) [高]
+[2025-12-20 13:28:13] Switch: wps.exe -> explorer.exe
+[2025-12-20 13:28:33] Skip short switch: lx-music-desktop.exe
+[2025-12-20 13:29:07] Record: explorer.exe (54s) [中]
+[2025-12-20 13:29:07] Switch: explorer.exe -> obsidian.exe
+[2025-12-20 13:29:07] AI request: 5 logs...
+[2025-12-20 13:29:14] AI done: 5 records -> 2025-12-20.csv
+[2025-12-20 13:31:34] Record: obsidian.exe (147s) [高]
+[2025-12-20 13:31:34] Switch: obsidian.exe -> chrome.exe
+[2025-12-20 13:37:00] Record: chrome.exe (326s) [高]
+[2025-12-20 13:37:00] Switch: chrome.exe -> obsidian.exe
+[2025-12-20 13:40:05] Record: obsidian.exe (184s) [高]
+[2025-12-20 13:40:05] Switch: obsidian.exe -> explorer.exe
+[2025-12-20 13:40:58] Record: explorer.exe (44s) [中]
+[2025-12-20 13:40:58] Switch: explorer.exe -> msedge.exe
+[2025-12-20 13:43:23] Record: msedge.exe (154s) [中]
+[2025-12-20 13:43:23] Switch: msedge.exe -> ui32.exe
+[2025-12-20 13:43:23] AI request: 5 logs...
+[2025-12-20 13:43:32] AI done: 5 records -> 2025-12-20.csv
+[2025-12-20 13:43:47] Skip short switch: vmware-tray.exe
+[2025-12-20 13:45:18] Record: ui32.exe (109s) [中]
+[2025-12-20 13:45:18] Switch: ui32.exe -> msedge.exe
+[2025-12-20 13:50:40] Record: msedge.exe (327s) [高]
+[2025-12-20 13:50:40] Switch: msedge.exe -> quark.exe
+[2025-12-20 13:51:45] Record: quark.exe (62s) [中]
+[2025-12-20 13:51:45] Switch: quark.exe -> msedge.exe
+[2025-12-20 13:52:32] Record: msedge.exe (50s) [低]
+[2025-12-20 13:52:32] Switch: msedge.exe -> chrome.exe
+[2025-12-20 13:53:47] Record: chrome.exe (71s) [低]
+[2025-12-20 13:53:47] Switch: chrome.exe -> msedge.exe
+[2025-12-20 13:53:47] AI request: 5 logs...
+[2025-12-20 13:53:53] AI done: 5 records -> 2025-12-20.csv
+[2025-12-20 13:54:29] Record: msedge.exe (45s) [低]
+[2025-12-20 13:54:29] Switch: msedge.exe -> quark.exe
+[2025-12-20 13:55:48] Record: quark.exe (76s) [高]
+[2025-12-20 13:55:48] Switch: quark.exe -> msedge.exe
+[2025-12-20 13:59:17] Skip short switch: quark.exe
+[2025-12-20 14:02:39] Record: msedge.exe (414s) [高]
+[2025-12-20 14:02:39] Switch: msedge.exe -> chrome.exe
+[2025-12-20 14:04:12] Record: chrome.exe (89s) [中]
+[2025-12-20 14:04:12] Switch: chrome.exe -> msedge.exe
+[2025-12-20 14:08:23] Skip short switch: quark.exe
+[2025-12-20 14:08:54] Record: msedge.exe (285s) [高]
+[2025-12-20 14:08:54] Switch: msedge.exe -> quark.exe
+[2025-12-20 14:08:54] AI request: 5 logs...
+[2025-12-20 14:09:00] AI done: 5 records -> 2025-12-20.csv
+[2025-12-20 14:09:28] Skip short switch: msedge.exe
+[2025-12-20 14:10:11] Skip short switch: msedge.exe
+[2025-12-20 14:11:24] Skip short switch: msedge.exe
+[2025-12-20 14:11:37] Skip short switch: msedge.exe
+[2025-12-20 14:12:34] Record: quark.exe (219s) [高]
+[2025-12-20 14:12:34] Switch: quark.exe -> explorer.exe
+[2025-12-20 14:13:30] Record: explorer.exe (53s) [中]
+[2025-12-20 14:13:30] Switch: explorer.exe -> msedge.exe
+[2025-12-20 14:13:53] Skip short switch: explorer.exe
+[2025-12-20 14:16:20] Skip short switch: lx-music-desktop.exe
+[2025-12-20 14:16:47] Skip short switch: windowsterminal.exe
+[2025-12-20 14:17:41] Record: msedge.exe (254s) [高]
+[2025-12-20 14:17:41] Switch: msedge.exe -> explorer.exe
+[2025-12-20 14:18:35] Record: explorer.exe (50s) [中]
+[2025-12-20 14:18:35] Switch: explorer.exe -> msedge.exe
+[2025-12-20 14:20:46] Skip short switch: explorer.exe
+[2025-12-20 14:22:08] Skip short switch: explorer.exe
+[2025-12-20 14:23:07] Skip short switch: explorer.exe
+[2025-12-20 14:23:31] Skip short switch: explorer.exe
+[2025-12-20 14:23:55] Skip short switch: lx-music-desktop.exe
+[2025-12-20 14:24:40] Skip short switch: explorer.exe
+[2025-12-20 14:25:03] Skip short switch: explorer.exe
+[2025-12-20 14:26:28] Record: msedge.exe (476s) [高]
+[2025-12-20 14:26:28] Switch: msedge.exe -> quark.exe
+[2025-12-20 14:26:28] AI request: 5 logs...
+[2025-12-20 14:26:34] AI done: 5 records -> 2025-12-20.csv
+[2025-12-20 14:26:47] Skip short switch: explorer.exe
+[2025-12-20 14:26:59] Skip short switch: explorer.exe
+[2025-12-20 14:27:14] Skip short switch: explorer.exe
+[2025-12-20 14:28:03] Record: quark.exe (95s) [中]
+[2025-12-20 14:28:03] Switch: quark.exe -> explorer.exe
+[2025-12-20 14:28:38] Skip short switch: msedge.exe
+[2025-12-20 14:28:45] Skip short switch: quark.exe
+[2025-12-20 14:29:21] Record: explorer.exe (78s) [高]
+[2025-12-20 14:29:21] Switch: explorer.exe -> chrome.exe
+[2025-12-20 14:37:59] Record: chrome.exe (514s) [高]
+[2025-12-20 14:37:59] Switch: chrome.exe -> msedge.exe
+[2025-12-20 14:39:59] Record: msedge.exe (123s) [高]
+[2025-12-20 14:39:59] Switch: msedge.exe -> lx-music-desktop.exe
+[2025-12-20 14:41:17] Record: lx-music-desktop.exe (75s) [中]
+[2025-12-20 14:41:17] AI request: 5 logs...
+[2025-12-20 14:41:17] Switch: lx-music-desktop.exe -> msedge.exe
+[2025-12-20 14:41:23] AI done: 5 records -> 2025-12-20.csv
+[2025-12-20 14:43:07] Record: msedge.exe (112s) [中]
+[2025-12-20 14:43:07] Switch: msedge.exe -> applicationframehost.exe
+[2025-12-20 14:43:10] Skip short switch: explorer.exe
+[2025-12-20 14:43:35] Skip short switch: fl64.exe
+[2025-12-20 14:44:18] Record: applicationframehost.exe (71s) [高]
+[2025-12-20 14:44:18] Switch: applicationframehost.exe -> fl64.exe
+[2025-12-20 14:48:56] Skip short switch: explorer.exe
+[2025-12-20 14:51:30] Skip short switch: shellhost.exe
+[2025-12-20 14:54:38] Record: fl64.exe (617s) [高]
+[2025-12-20 14:54:38] Switch: fl64.exe -> msedge.exe
+[2025-12-20 14:55:47] Record: msedge.exe (71s) [高]
+[2025-12-20 14:55:47] Switch: msedge.exe -> chrome.exe
+[2025-12-20 14:56:06] Skip short switch: fl64.exe
+[2025-12-20 14:56:21] Skip short switch: fl64.exe
+[2025-12-20 14:58:17] Record: chrome.exe (150s) [高]
+[2025-12-20 14:58:17] AI request: 5 logs...
+[2025-12-20 14:58:17] Switch: chrome.exe -> fl64.exe
+[2025-12-20 14:58:23] AI done: 5 records -> 2025-12-20.csv
+[2025-12-20 15:00:58] Skip short switch: explorer.exe
+[2025-12-20 15:03:15] Skip short switch: explorer.exe
+[2025-12-20 15:09:27] Record: fl64.exe (666s) [高]
+[2025-12-20 15:09:27] Switch: fl64.exe -> msedge.exe
+[2025-12-20 15:11:04] Record: msedge.exe (100s) [高]
+[2025-12-20 15:11:04] Switch: msedge.exe -> explorer.exe
+[2025-12-20 15:11:47] Skip short switch: fl64.exe
+[2025-12-20 15:12:25] Record: explorer.exe (81s) [中]
+[2025-12-20 15:12:25] Switch: explorer.exe -> fl64.exe
+[2025-12-20 15:13:54] Skip short switch: obsidian.exe
+[2025-12-20 15:14:02] Skip short switch: snippingtool.exe
+[2025-12-20 15:14:07] Skip short switch: obsidian.exe
+[2025-12-20 15:14:14] Skip short switch: chrome.exe
+[2025-12-20 15:14:42] Skip short switch: obsidian.exe
+[2025-12-20 15:14:50] Skip short switch: snippingtool.exe
+[2025-12-20 15:15:21] Record: fl64.exe (176s) [高]
+[2025-12-20 15:15:21] Switch: fl64.exe -> obsidian.exe
+[2025-12-20 15:16:13] Record: obsidian.exe (52s) [中]
+[2025-12-20 15:16:13] AI request: 5 logs...
+[2025-12-20 15:16:13] Switch: obsidian.exe -> lx-music-desktop.exe
+[2025-12-20 15:16:18] AI done: 5 records -> 2025-12-20.csv
+[2025-12-20 15:16:47] Record: lx-music-desktop.exe (34s) [中]
+[2025-12-20 15:16:47] Switch: lx-music-desktop.exe -> fl64.exe
+[2025-12-20 15:17:15] Skip short switch: explorer.exe
+[2025-12-20 15:17:34] Skip short switch: explorer.exe
+[2025-12-20 15:18:12] Skip short switch: lx-music-desktop.exe
+[2025-12-20 15:19:33] Record: fl64.exe (166s) [高]
+[2025-12-20 15:19:33] Switch: fl64.exe -> obsidian.exe
+[2025-12-20 15:21:11] Record: obsidian.exe (95s) [中]
+[2025-12-20 15:21:11] Switch: obsidian.exe -> msedge.exe
+[2025-12-20 15:25:15] Record: msedge.exe (247s) [高]
+[2025-12-20 15:25:15] Switch: msedge.exe -> obsidian.exe
+[2025-12-20 15:26:31] Record: obsidian.exe (72s) [中]
+[2025-12-20 15:26:31] Switch: obsidian.exe -> msedge.exe
+[2025-12-20 15:26:31] AI request: 5 logs...
+[2025-12-20 15:26:37] AI done: 5 records -> 2025-12-20.csv
+[2025-12-20 15:29:25] Record: msedge.exe (177s) [高]
+[2025-12-20 15:29:25] Switch: msedge.exe -> fl64.exe
+[2025-12-20 15:30:14] Skip short switch: msedge.exe
+[2025-12-20 15:32:22] Record: fl64.exe (173s) [高]
+[2025-12-20 15:32:22] Switch: fl64.exe -> msedge.exe
+[2025-12-20 15:41:35] Skip short switch: quark.exe
+[2025-12-20 15:43:13] Record: msedge.exe (654s) [高]
+[2025-12-20 15:43:13] Switch: msedge.exe -> fl64.exe
+[2025-12-20 15:43:26] Skip short switch: snippingtool.exe
+[2025-12-20 15:44:13] Record: fl64.exe (57s) [高]
+[2025-12-20 15:44:13] Switch: fl64.exe -> msedge.exe
+[2025-12-20 15:44:39] Skip short switch: fl64.exe
+[2025-12-20 15:45:19] Skip short switch: fl64.exe
+[2025-12-20 15:46:49] Skip short switch: snippingtool.exe
+[2025-12-20 15:55:15] Record: msedge.exe (665s) [高]
+[2025-12-20 15:55:15] AI request: 5 logs...
+[2025-12-20 15:55:15] Switch: msedge.exe -> explorer.exe
+[2025-12-20 15:55:21] AI done: 5 records -> 2025-12-20.csv
+[2025-12-20 15:56:20] Record: explorer.exe (65s) [高]
+[2025-12-20 15:56:20] Switch: explorer.exe -> mintty.exe
